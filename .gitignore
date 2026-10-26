@@ -8,3 +8,4 @@ proposal/*.log
 proposal/*.out
 proposal/pg-*.png
 __pycache__/
+proposal/*.toc

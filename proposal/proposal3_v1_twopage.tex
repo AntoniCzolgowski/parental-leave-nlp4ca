@@ -1,0 +1,93 @@
+\documentclass[10pt,twocolumn]{article}
+\usepackage[letterpaper,margin=0.72in,columnsep=0.24in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{stfloats}
+\usepackage[font=small,labelfont=bf,skip=3pt]{caption}
+\usepackage[round]{natbib}
+\setlength{\bibsep}{0pt}
+\usepackage[most]{tcolorbox}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{4pt}{1pt}
+\titleformat{\section}{\normalsize\bfseries}{\thesection}{0.5em}{}
+\setlength{\parskip}{1.5pt}
+\setlength{\parindent}{0pt}
+\raggedbottom
+\setlength{\textfloatsep}{6pt}
+\setlength{\dbltextfloatsep}{6pt}
+\newtcolorbox{hypbox}{colback=gray!8,colframe=gray!60,boxrule=0.4pt,arc=1pt,left=3pt,right=3pt,top=2pt,bottom=2pt}
+\newcommand{\XX}[1]{\textcolor{red}{#1}}
+
+\title{\vspace{-0.62in}\large\textbf{Leaving for Europe, or Leaving Science?}\\[2pt]\normalsize Reading Parental Leave Policies at Scale to Explain Who Stays in US Academia}
+\author{\normalsize Antoni Czolgowski \quad CSCI 7000 NLP for Cultural Analytics, Proposal 3, 27 October 2026}
+\date{\vspace{-0.32in}}
+
+\begin{document}
+\maketitle
+
+\section{Motivation and research questions}
+An assistant professor at the University of Kentucky who gives birth is paid while she recovers, ``usually 6--8 weeks'', under the rules for temporary disability. Staff there get four weeks of paid parental leave, faculty do not. At the University of Nottingham, matched to Kentucky by size and field mix, she gets 26 weeks at full pay. At CU Boulder she gets 18. In the US each university writes its own rules, while in most of Europe the state writes them and universities add little. These documents are culture written down: they say how long a university expects a new parent to be away, and whom it imagines as that parent, a mother, any parent, or a ``primary caregiver''. The wording has effects: when top economics departments made tenure-clock extensions gender-neutral, men's tenure rates rose and women's fell \citep{antecol2018}.
+
+Do these rules change who stays in science? Parenthood explains most of the gender gap in faculty productivity, and 45.9\% of women but 20.6\% of men say the leave policy mattered when they chose their job \citep{morgan2021}. But a survey of current faculty cannot see those who left. In a census of 245,270 US faculty, women leave at higher rates at every career age, more often over workplace climate than work-life balance \citep{spoon2023}, yet attrition does not say where people went: a woman who takes a faculty job in Leuven and a woman who leaves research both count as leaving. The policy story predicts the destination. If generous leave abroad pulls women out, their extra departures around the first birth go to Europe. If family ties hold them in place, they go out of science.
+
+\textbf{Why NLP?} In 2018 Larremore, Clauset and colleagues collected the leave policies of 205 universities \citep{morgan2018}. That works once. The texts count leave in hours, quarters or semesters, hide it in union contracts, and change without notice, and this question needs them for two continents and every year of a career. An LLM reading them with a fixed codebook, checked by other coders, can turn the pile into a panel.
+
+\begin{hypbox}
+\textbf{RQ1 (policies).} How generous are faculty parental leave policies at US universities compared with matched European ones, whom do they address (mothers, parents, a primary caregiver), and how did both change since 2011?\\[2pt]
+\textbf{H1 (destination).} Around the first birth, women's extra departures from US science (relative to men's) go to Europe rather than out of science. \emph{Disconfirmed if}, at career ages 6--11, the women-to-men rate ratio is above 1 for exits but not for moves to Europe (95\% CIs).\\[2pt]
+\textbf{H2 (policy).} These extra departures are smaller where the university or the state pays at least a semester of leave. \emph{Disconfirmed if} the gender $\times$ birth window $\times$ policy term of the hazard model (Section 7) has a 95\% CI that includes 0.
+\end{hypbox}
+
+\begin{figure*}[t]\centering
+\includegraphics[width=\textwidth]{fig1.pdf}
+\caption{(a) Weeks off for a birth parent at 20 US universities and their European twins, as extracted by the LLM (bars are medians, ``$n$ of 20'' counts the texts that state the number). (b) Women-to-men ratio of yearly rates of leaving US science by career age, with 95\% bootstrap CIs. Shaded: where a first birth at the faculty average age of 33 \citep{morgan2021} likely falls, if careers start in the mid-twenties.}
+\end{figure*}
+
+\section{Data}
+\textbf{Policies.} For the pilot I drew 20 US universities at random from the 80 most productive in OpenAlex, 10 in states with a paid family leave insurance program and 10 without (CU Boulder fixed in), and matched each one-to-one to a European \emph{twin}, the university most similar in field mix, size and citations per paper. Older versions come from the Wayback Machine, national rules from the EPLP dataset \citep[21 countries, 1970--2024;][]{spitzer2026}, and the 2018 data are the US ground truth. \textbf{Careers.} OpenAlex author records with yearly affiliations \citep{priem2022}. In the full study, the lab's census of US faculty \citep[AARC;][]{spoon2023} gives who left a faculty job and when, and OpenAlex gives where they went. \emph{Permissions:} the policies are public documents, and OpenAlex (CC0) and the Wayback Machine are open. AARC is licensed to the lab, so its use needs Dan Larremore's agreement, and linking census records to OpenAlex person by person needs IRB review. Results are reported only in aggregate.
+
+\section{Language features (operationalization)}
+The unit is the leave rules of one university in one year, read for one reference person: a tenure-track assistant professor with two years of service and a first child. The LLM fills ten fields, mainly weeks off at full pay and with any pay for the birth parent, the same for the non-birth parent, semesters of teaching relief, the tenure clock (automatic, on request, none), a primary-caregiver clause, and the \emph{framing} of the text, which is gendered (maternity, mother), neutral (parent, birth parent) or mixed. It converts units (a semester is 16 weeks) and quotes the sentence behind every field. The weeks are a fair measure because they are what faculty name when they say a policy mattered \citep{morgan2021}, and the framing is where a rule that looks neutral can still favor one parent \citep{antecol2018}. Over time I compare extracted fields across Wayback versions, not raw pages, which change with every redesign.
+
+\section{Feasibility test}
+\textbf{Policies (RQ1): readable, but Europe hides its numbers.} Matching paired all 20 (only Michigan has no close European peer). I found official rules for all 20 US universities, but 4 European twins have no public page (staff rules sit on login-only intranets), so the public text is often a sector collective agreement or national law. The 92 documents (551,000 words, eight languages) count leave in hours, quarters, semesters and weeks. After Claude Opus 5.5 coded all 40, GPT-6.1 Terra and Grok 4.7 Fast coded 10 of them blind from the same texts and rules, as stand-ins for human coders. Claude agrees with GPT on 51 and with Grok on 50 of 60 cells, and with at least one of them on 58. All three agree on 9 of 10 birth-parent weeks but only 5 of 10 framings. These are codebook problems, not reading problems: does an unstated rule mean zero weeks, and is the UK rule that a mother must end her leave before her partner can share it a primary-caregiver clause? Where the text states it (Figure~1a), a birth parent gets a median of 12 weeks at full pay at the US universities and 18 at their twins (higher in Europe in 7 of the 9 pairs with both numbers), and 14 against 28 weeks with any pay. But the European number can be read for only 11 of 20 twins, because the rest point to national law without stating it, so the full pipeline must join the national layer. The framing splits by continent: 17 of 20 US texts speak only of parents, while 18 of 20 European texts are built around maternity, alone (8) or next to parental terms (10). The UC policy alone has 9 distinct Wayback versions since 2014.
+
+\textbf{Careers (H1): the first numbers lean against the pull story.} I drew 29,915 OpenAlex authors ever affiliated with a US institution (10 to 1,000 works), with gender from first names \citep[binary, 37.5\% not gendered;][]{genderguesser} and career age from the first affiliation year. This leaves 8,943 authors who began in 1990--2018 (3,651 women), observed in the US in 2000--2020. A \emph{move to Europe} is a last US year followed by two or more years at a European institution, and an \emph{exit} is a last US year with no affiliation in the five years after. Women do not move to Europe more than men at any career age (Figure~1b, 0.81 [0.50, 1.21] at 6--8), but they stop publishing more often (1.29 [1.01, 1.60] at 12--14). The counts are small (201 moves by women), names are a weak proxy and stopping publishing is not leaving academia, so this motivates the full test rather than answering it. One fact already shapes the design: of 1,699 US-to-Europe movers in a second sample, 65\% began their careers in Europe, so most moves are returns home.
+
+\section{Relation to existing work}
+Leave policies have been collected for 205 US and Canadian universities \citep{morgan2018}, top economics departments \citep{antecol2018} and European countries \citep{spitzer2026}. Career studies measure productivity around parenthood \citep{morgan2021}, attrition \citep{spoon2023}, the prestige hierarchy of hiring \citep{wapman2022} and scholarly migration, where women are less mobile \citep{zhao2023}, but none ties careers to the text of the rules people lived under. LLM coding matches trained annotators on some tasks and fails on others \citep{bamman2024,than2025}, and uncertain LLM labels can still support valid conclusions \citep{gligoric2025}. I add a panel of university leave policies read from text, on both continents and over time, linked to where the people who leave go.
+
+\section{Methods considered, and rejected}
+\emph{Hand-coding everything}, as in 2018: some 400 US universities, their twins and 15 years of versions is too much reading to redo every year. \emph{Keyword search for ``weeks''} fails on hours, semesters, ``up to'' caps and eligibility. \emph{Inferring births from acknowledgments or publication gaps} is noisy and too private, so first births come from the lab's faculty survey \citep{morgan2021}. \emph{Surveys of leavers} are best for reasons \citep{spoon2023}, so I keep them for later. \emph{One long prompt}: Grok missed four of ten policies given in one 30,000-word file, a small case of the long-context failures in \citet{karpinska2024}, so the pipeline reads one university at a time.
+
+\section{Limitations, ethics, next steps}
+A policy on paper is not its use (91.8\% of eligible mothers but 62.1\% of fathers took leave; \citealp{morgan2021}), and departments negotiate their own deals. OpenAlex affiliations are noisy, and gender from names is binary and fails most on non-European names. The 2025 US funding cuts and Europe's recruiting programs confound the latest years, so the main estimates stop before 2025. \textbf{Next steps}, the full study: (1) collect the rules of every PhD-granting US university in AARC and its twin, yearly from 2011, joined to national law; (2) validate on the 2018 data and a 10\% sample double-coded by trained student or Prolific coders, let a panel of LLM coders from different companies send disagreements to humans, and carry the remaining error into the regressions \citep{gligoric2025}; (3) link AARC leavers to their OpenAlex destinations; (4) fit a competing-risks model of each faculty-year (stay, move within the US, to Europe, elsewhere, exit) with gender $\times$ birth window $\times$ policy, using the state paid leave programs (California 2004 to Colorado 2024) and Wayback-dated policy changes as a staggered difference-in-differences; (5) estimate how many exits a one-semester floor would prevent and what they cost (a new search, a start-up package, lost output); (6) a short brief for universities and state legislators.
+
+\section*{Team}
+Antoni Czolgowski (solo): question, design, data, experiments and writing.
+
+\section*{Acknowledgments}
+The question comes from a list of topics Dan Larremore proposed for my independent study (October 2026), including his suggestion to redo the 2018 policy collection with LLM search and the Wayback Machine. Readings that shaped the idea: \citet{gligoric2025}, \citet{bamman2024} and \citet{than2025}. AI use: Claude Opus 5.5 (in Claude, medium reasoning) helped me find the official policy pages, write the twin matching, collection and OpenAlex code, run the codebook extraction, make the figure and edit the text. GPT-6.1 Terra (ChatGPT, medium reasoning) and Grok 4.7 Fast served as the second and third coders, run by me in fresh chats with the same rules. Code and data: \url{github.com/AntoniCzolgowski/parental-leave-nlp4ca}.
+
+\small
+\begin{thebibliography}{99}
+\bibitem[Antecol et~al.(2018)]{antecol2018} H. Antecol, K. Bedard, J. Stearns. 2018. Equal but inequitable: Who benefits from gender-neutral tenure clock stopping policies? \emph{American Economic Review} 108(9):2420--2441.
+\bibitem[Bamman et~al.(2024)]{bamman2024} D. Bamman, K. K. Chang, L. Lucy, N. Zhou. 2024. On classification with large language models in cultural analytics. \emph{Computational Humanities Research (CHR) 2024}, CEUR 3834.
+\bibitem[Gligori\'c et~al.(2025)]{gligoric2025} K. Gligori\'c, T. Zrnic, C. Lee, E. Cand\`es, D. Jurafsky. 2025. Can unconfident LLM annotations be used for confident conclusions? \emph{NAACL 2025}.
+\bibitem[gender-guesser(2016)]{genderguesser} gender-guesser. 2016. Python package, based on J. Michael's name dictionary. \url{pypi.org/project/gender-guesser}.
+\bibitem[Karpinska et~al.(2024)]{karpinska2024} M. Karpinska, K. Thai, K. Lo, T. Goyal, M. Iyyer. 2024. One thousand and one pairs: A ``novel'' challenge for long-context language models. \emph{EMNLP 2024}.
+\bibitem[Morgan et~al.(2018)]{morgan2018} A. C. Morgan, S. F. Way, M. Galesic, D. B. Larremore, A. Clauset. 2018. Paid parental leave at US and Canadian universities. Online dataset, CU Boulder and Santa Fe Institute.
+\bibitem[Morgan et~al.(2021)]{morgan2021} A. C. Morgan, S. F. Way, M. J. D. Hoefer, D. B. Larremore, M. Galesic, A. Clauset. 2021. The unequal impact of parenthood in academia. \emph{Science Advances} 7(9):eabd1996.
+\bibitem[Priem et~al.(2022)]{priem2022} J. Priem, H. Piwowar, R. Orr. 2022. OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. arXiv:2205.01833.
+\bibitem[Spitzer et~al.(2026)]{spitzer2026} S. Spitzer, A. Lemoine, Z. Song, et al. 2026. The European Parenting Leave Policies (EPLP) dataset: Leave duration entitlements for 21 countries from 1970 to 2024. \emph{Demographic Research} 54(31):987--1008.
+\bibitem[Spoon et~al.(2023)]{spoon2023} K. Spoon, N. LaBerge, K. H. Wapman, et al. 2023. Gender and retention patterns among U.S. faculty. \emph{Science Advances} 9(42):eadi2205.
+\bibitem[Than et~al.(2025)]{than2025} N. Than, L. Fan, T. Law, L. K. Nelson, L. McCall. 2025. Updating ``the future of coding'': Qualitative coding with generative large language models. \emph{Sociological Methods \& Research} 54(3):849--888.
+\bibitem[Wapman et~al.(2022)]{wapman2022} K. H. Wapman, S. Zhang, A. Clauset, D. B. Larremore. 2022. Quantifying hierarchy and dynamics in US faculty hiring and retention. \emph{Nature} 610:120--127.
+\bibitem[Zhao et~al.(2023)]{zhao2023} X. Zhao, A. Akbaritabar, R. Kashyap, E. Zagheni. 2023. A gender perspective on the global migration of scholars. \emph{PNAS} 120(10):e2214664120.
+\end{thebibliography}
+\end{document}
