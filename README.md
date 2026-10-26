@@ -17,7 +17,7 @@ This repo holds the feasibility test only. The proposal is in `proposal/`.
 | 5 | `src/05_codebook_prompt.md` | The codebook and extraction prompt (10 fields, evidence quote and confidence per field) |
 | 6 | `src/06_careers.py`, `src/07_rate_ratios.py` | Career table (name-based gender, last US year, destination), women-to-men rate ratios by career age with author-level bootstrap → `outputs/rr_dest.csv` |
 | 7 | `src/07b_policy_panel.py` | Joins the extracted fields of each US university and its twin → `outputs/policy_fields_by_pair.csv` |
-| 8 | `src/05b_coder_prompt.md`, `src/08_coder_agreement.py` | Second and third coders (GPT-6.1, Grok 4.7 Fast) on 10 universities; agreement with the extraction → `outputs/agreement_rows.csv` |
+| 8 | `src/05b_coder_prompt.md`, `src/08_coder_agreement.py` | Second and third coders (GPT-6.1 Terra, medium reasoning; Grok 4.7 Fast) on 10 universities; agreement with the extraction → `outputs/agreement_rows.csv` |
 | 9 | `src/09_figure.py` | Figure 1 |
 
 `outputs/wayback_cdx.json` counts Wayback captures and distinct versions for six US policy pages.
@@ -27,6 +27,6 @@ Policy texts are not redistributed here (they belong to the universities); the s
 ## Feasibility numbers (26 Oct 2026)
 
 - 92 policy documents, 551,000 words, eight languages; 4 of 20 European twins have no public staff-leave page.
-- Extraction (Claude) vs GPT-6.1: 51 of 60 cells; vs Grok 4.7 Fast: 50 of 60; Claude matches at least one other coder on 58 of 60.
+- Extraction (Claude Opus 5.5) vs GPT-6.1 Terra (medium reasoning): 51 of 60 cells; vs Grok 4.7 Fast: 50 of 60; Claude matches at least one other coder on 58 of 60.
 - Median weeks at full pay for a birth parent: 12 (US, 18 of 20 texts state it) vs 18 (European twins, 11 of 20).
 - Careers: 8,943 OpenAlex authors (3,651 women); women-to-men rate ratio of moves to Europe 0.81 [0.50, 1.21] at career ages 6-8, of exits 1.29 [1.01, 1.60] at 12-14.
