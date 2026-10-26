@@ -27,6 +27,6 @@ Policy texts are not redistributed here (they belong to the universities); the s
 ## Feasibility numbers (26 Oct 2026)
 
 - 92 policy documents, 551,000 words, eight languages; 4 of 20 European twins have no public staff-leave page.
-- Extraction (Claude Opus 5.5) vs GPT-6.1 Terra (medium reasoning): 51 of 60 cells; vs Grok 4.7 Fast: 50 of 60; Claude matches at least one other coder on 58 of 60.
+- Extraction (Claude Opus 5.5, medium reasoning) vs GPT-6.1 Terra (medium reasoning): 51 of 60 cells; vs Grok 4.7 Fast: 50 of 60; Claude matches at least one other coder on 58 of 60.
 - Median weeks at full pay for a birth parent: 12 (US, 18 of 20 texts state it) vs 18 (European twins, 11 of 20).
 - Careers: 8,943 OpenAlex authors (3,651 women); women-to-men rate ratio of moves to Europe 0.81 [0.50, 1.21] at career ages 6-8, of exits 1.29 [1.01, 1.60] at 12-14.
