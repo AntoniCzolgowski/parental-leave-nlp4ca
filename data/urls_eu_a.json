@@ -1,0 +1,154 @@
+[
+  {
+    "institution": "University of Liverpool",
+    "country": "UK",
+    "university_urls": [
+      "https://www.liverpool.ac.uk/working/whyworkhere/familyfriendly/policies/maternity/",
+      "https://www.liverpool.ac.uk/working/whyworkhere/familyfriendly/policies/maternity/guidance/"
+    ],
+    "national_urls": [
+      "https://www.gov.uk/maternity-pay-leave"
+    ],
+    "language": "English",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "Public HR pages (policy revised 1 June 2023) say staff may get full salary for the first 26 weeks; the full policy document and forms appear to be staff-only, and no public PDF was found."
+  },
+  {
+    "institution": "University College London",
+    "country": "UK",
+    "university_urls": [
+      "https://www.ucl.ac.uk/human-resources/maternity-leave-and-pay-policy",
+      "https://www.ucl.ac.uk/human-resources/policies/2026/mar/2026-reward-changes-faqs-enhanced-paid-family-leave"
+    ],
+    "national_urls": [
+      "https://www.gov.uk/maternity-pay-leave"
+    ],
+    "language": "English",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "Web policy for all staff (June 2026, not a PDF): from 1 May 2026, 22 weeks full pay (or 11 weeks full plus 22 weeks half) with no service requirement, and academics returning from more than 3 months of leave get one term of research leave."
+  },
+  {
+    "institution": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "university_urls": [
+      "https://www.lmu.de/frauenbeauftragte/de/wissenschaft-und-familie/",
+      "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity/familienfreundlichkeit/index.html",
+      "https://www.serviceportal.verwaltung.uni-muenchen.de/services/personal/personaladministration/mutterschutz_elternzeit/index.html"
+    ],
+    "national_urls": [
+      "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq",
+      "https://www.gesetze-im-internet.de/muschg_2018/",
+      "https://www.gesetze-im-internet.de/beeg/index.html",
+      "https://www.zbfs.bayern.de/familienleistungen/elterngeld/"
+    ],
+    "language": "German",
+    "academic_staff_specific": true,
+    "university_adds_to_statutory": false,
+    "note": "Leave and pay follow federal and Bavarian law; the Dezernat Personal page on Mutterschutz and Elternzeit needs an LMU login, and the public pages add only support measures (contract-extension advice, funds for institutes to cover Mutterschutz periods of research staff, childcare stipends)."
+  },
+  {
+    "institution": "University of Zurich",
+    "country": "Switzerland",
+    "university_urls": [
+      "https://staff.uzh.ch/en/personal/working-hours-absences/absences/parenthood.html",
+      "https://staff.uzh.ch/dam/jcr:c50587b8-9b71-4e8e-8bdd-817a819d72a2/Merkblatt%20Elternschaft_DE_20260528.pdf"
+    ],
+    "national_urls": [
+      "https://www.bsv.admin.ch/de/eo-bei-mutterschaft",
+      "https://www.bsv.admin.ch/de/eo-elternschaft"
+    ],
+    "language": "German / English",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "The Merkblatt Elternschaft (March 2026) covers all public-law employees including professors: 16 weeks full pay (federal minimum is 14 weeks at 80%), 2 weeks paid leave for the other parent, up to 8 weeks paid adoption leave, and contract extensions are usual for doctoral and postdoc positions."
+  },
+  {
+    "institution": "University of Reading",
+    "country": "UK",
+    "university_urls": [
+      "https://reading.ac.uk/human-resources/policies-and-procedures/absence-and-leave/family-leave",
+      "https://reading.ac.uk/human-resources/policies-and-procedures/absence-and-leave/family-leave/maternity-leave",
+      "https://reading.ac.uk/human-resources/-/media/project/functions/human-resources/documents/maternity-policy-2026.docx"
+    ],
+    "national_urls": [
+      "https://www.gov.uk/maternity-pay-leave"
+    ],
+    "language": "English",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "The 2026 Maternity Leave Policy is a DOCX, not a PDF: after 26 weeks' service, all staff categories get 18 weeks full pay (inclusive of SMP), then 21 weeks SMP, then 13 weeks unpaid."
+  },
+  {
+    "institution": "Université de Montpellier",
+    "country": "France",
+    "university_urls": [],
+    "national_urls": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F519"
+    ],
+    "language": "French",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": "unclear",
+    "note": "No public UM page on staff maternity or parental leave was found (staff HR documents sit on intranet.umontpellier.fr behind a CAS login); tenured enseignants-chercheurs are state civil servants covered by the national fonction publique rules in F519."
+  },
+  {
+    "institution": "University of Basel",
+    "country": "Switzerland",
+    "university_urls": [
+      "https://www.unibas.ch/dam/jcr:cdbfb2d3-4f93-4390-8f11-077a1576041a/Informationen%20Elternschaft.pdf"
+    ],
+    "national_urls": [
+      "https://www.bsv.admin.ch/de/eo-bei-mutterschaft",
+      "https://www.bsv.admin.ch/de/eo-elternschaft"
+    ],
+    "language": "German",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "The Informationen Elternschaft brochure (August 2025) covers all staff: 16 weeks full salary, 4 weeks paid other-parent leave, 16 weeks adoption leave, up to 16 weeks unpaid leave, plus extensions for assistants, doctoral students and assistant professors (up to 2 years)."
+  },
+  {
+    "institution": "Karolinska Institutet",
+    "country": "Sweden",
+    "university_urls": [
+      "https://staff.ki.se/parental-leave",
+      "https://medarbetare.ki.se/media/611/download?attachment"
+    ],
+    "national_urls": [
+      "https://www.forsakringskassan.se/english/parents/when-the-child-is-born/parental-benefit"
+    ],
+    "language": "English / Swedish",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "Under KI's local collective agreement on föräldralön (2018, based on the state-sector Villkorsavtal), KI pays 10% of daily salary up to the benefit ceiling and 90% above it, on top of Försäkringskassan's benefit, for up to 360 days until the child turns 36 months."
+  },
+  {
+    "institution": "University of Bonn",
+    "country": "Germany",
+    "university_urls": [
+      "https://www.uni-bonn.de/de/universitaet/chancengerechtigkeit/familiengerechte-hochschule/arbeiten-und-forschen-mit-kind/mutterschutz-elternzeit-und-elterngeld"
+    ],
+    "national_urls": [
+      "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq",
+      "https://www.gesetze-im-internet.de/muschg_2018/",
+      "https://www.gesetze-im-internet.de/beeg/index.html"
+    ],
+    "language": "German",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": false,
+    "note": "The public page restates statutory Mutterschutz, Elternzeit and Elterngeld (separate rules for Beamte); the only university-specific rule is that fixed-term academic staff on Elternzeit are normally replaced, and the detailed HR Serviceportal page is internal."
+  },
+  {
+    "institution": "University of Florence",
+    "country": "Italy",
+    "university_urls": [],
+    "national_urls": [
+      "https://www.normattiva.it/eli/id/2001/04/26/001G0200/CONSOLIDATED",
+      "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.congedo-di-paternit-obbligatorio-58988.congedo-di-paternit-obbligatorio.html"
+    ],
+    "language": "Italian",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": "unclear",
+    "note": "No public UniFI page on maternity or parental leave for docenti and ricercatori was found (the Lavora con noi and Persone pages have none), so the baseline is the national Testo Unico D.Lgs. 151/2001."
+  }
+]

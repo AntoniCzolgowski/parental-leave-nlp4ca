@@ -1,0 +1,11 @@
+institution,birth_fullpay_weeks,nonbirth_fullpay_weeks,teaching_relief_semesters,tenure_clock,framing,primary_caregiver_clause,note
+Arizona State University,12,12,0.5,on_request,mixed,TRUE,"Alternate duties vary with timing; extension process unspecified; leave is shared if both parents work at ASU."
+Carnegie Mellon University,16,16,0,on_request,neutral,TRUE,"One semester assumes primary caregiver status; tenure extension is at faculty member's discretion."
+Karolinska Institutet,,,0,not_applicable,neutral,FALSE,"KI pays 10%; state allowance amount is not stated, so combined pay cannot be determined."
+Princeton University,,0,1,automatic,mixed,TRUE,"Disability leave is paid but percentage unspecified; teaching relief requires primary caregiver status."
+University College London,22,12,0,not_applicable,mixed,TRUE,"Shared parental leave requires the other parent to curtail their leave."
+University of Colorado Boulder,18,18,0,automatic,neutral,FALSE,"FAMLI runs concurrently; tenure clock stops unless the faculty member elects otherwise."
+University of Liverpool,26,,0,not_applicable,mixed,FALSE,"Full maternity pay is conditional; detailed eligibility and partner pay are not included."
+University of Reading,18,,0,not_applicable,mixed,TRUE,"Partner pay is unspecified; shared parental leave depends on the birth parent curtailing leave."
+University of Zurich,16,2,0,not_applicable,mixed,FALSE,"Other parent's paid leave treated as full pay; university receives state reimbursement."
+University of Michigan,12,6,0,on_request,mixed,TRUE,"Modified duties require declining six weeks of parental leave; eligible birth parents may request a second term."

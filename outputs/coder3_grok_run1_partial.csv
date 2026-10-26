@@ -1,0 +1,7 @@
+institution,birth_fullpay_weeks,nonbirth_fullpay_weeks,teaching_relief_semesters,tenure_clock,framing,primary_caregiver_clause,note
+Princeton University,7,0,1,automatic,mixed,TRUE,STD maternity ~6-8wk post (coded 6-8; midpoint 7); workload relief 1 sem separate; nonbirth no paid leave
+Carnegie Mellon University,16,16,0,on_request,neutral,TRUE,1 semester paid if primary caregiver; tenure clock optional exclude 1yr
+Arizona State University,12,12,0,on_request,neutral,FALSE,12wk 100% paid parental block; both ASU parents share up to 18
+University College London,22,0,0,not_applicable,gendered,FALSE,OMP 18wk full + implied; nonbirth via shared parental not auto fullpay
+Karolinska Institutet,0,0,0,not_applicable,neutral,FALSE,KI tops only 10%; main pay from Swedish Social Insurance (not stated as full)
+University of Zurich,16,2,0,not_applicable,gendered,FALSE,16wk full maternity; 2wk paid other parent; EO tops to 100% at UZH

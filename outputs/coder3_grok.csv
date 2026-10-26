@@ -1,0 +1,11 @@
+institution,birth_fullpay_weeks,nonbirth_fullpay_weeks,teaching_relief_semesters,tenure_clock,framing,primary_caregiver_clause,note
+University of Colorado Boulder,18,18,0,automatic,neutral,FALSE,TT faculty 18 weeks full pay parental leave; tenure stop automatic but can elect to count
+Princeton University,6,0,1,automatic,mixed,TRUE,short-term disability ~6-8 weeks post-birth; 1 semester workload relief separate; nonbirth unpaid
+Carnegie Mellon University,16,16,0,on_request,neutral,TRUE,1 semester paid if primary caregiver; tenure clock exclusion at discretion
+University of Michigan,12,6,1,on_request,mixed,TRUE,6wk maternity +6wk parental for birth parent; modified duties 1 term (or 2 for birth) if significant caregiving
+Arizona State University,12,12,0,on_request,neutral,FALSE,12 weeks 100% paid parental; both parents total 18 if share; probationary extension good cause
+University College London,22,0,0,not_applicable,gendered,FALSE,22 weeks full occupational maternity pay; nonbirth via shared parental not default full
+University of Reading,18,0,0,not_applicable,gendered,FALSE,18 weeks full occupational maternity pay then SMP; no nonbirth fullpay stated
+University of Liverpool,26,0,0,not_applicable,gendered,FALSE,up to 26 weeks full salary maternity; no nonbirth fullpay details in text
+Karolinska Institutet,,0,0,not_applicable,neutral,FALSE,KI parental pay only 10% top-up; full rate via Swedish statutory not quantified as 90%+
+University of Zurich,16,2,0,not_applicable,gendered,FALSE,16 weeks full paid maternity; 2 weeks paid other-parent leave

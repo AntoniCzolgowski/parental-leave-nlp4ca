@@ -1,0 +1,10 @@
+data/openalex/
+data/policies/
+data/bundles/
+data/authors_compact.jsonl
+data/*.pkl
+proposal/*.aux
+proposal/*.log
+proposal/*.out
+proposal/pg-*.png
+__pycache__/

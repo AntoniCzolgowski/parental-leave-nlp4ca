@@ -1,0 +1,152 @@
+[
+  {
+    "institution": "University of Nottingham",
+    "country": "United Kingdom",
+    "university_urls": [
+      "https://www.nottingham.ac.uk/hr/guidesandsupport/msplapsupport/maternity/documents/maternity-leave-policy.pdf",
+      "https://www.nottingham.ac.uk/hr/guidesandsupport/msplapsupport/maternity/maternitypay.aspx",
+      "https://www.nottingham.ac.uk/hr/guidesandsupport/msplapsupport/maternity/index.aspx"
+    ],
+    "national_urls": [
+      "https://www.gov.uk/maternity-pay-leave"
+    ],
+    "language": "en",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "Maternity Leave Policy v7.4 (Apr 2025) covers all employees: 26 weeks full pay (incl. SMP), then 13 weeks SMP and 13 unpaid, after 52 weeks' service."
+  },
+  {
+    "institution": "Delft University of Technology",
+    "country": "Netherlands",
+    "university_urls": [
+      "https://filelist.tudelft.nl/TNW/Over%20faculteit/Vacancies/Tenure_Track_Policy_AS.pdf",
+      "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/why-work-at-the-tu-delft",
+      "https://www.universiteitenvannederland.nl/files/publications/CAO%20Nederlandse%20Universiteiten%20EN%202025-2026.pdf"
+    ],
+    "national_urls": [
+      "https://government.nl/topics/pregnancy-and-maternity-leave/applying-for-pregnancy-leave-and-maternity-leave"
+    ],
+    "language": "en",
+    "academic_staff_specific": true,
+    "university_adds_to_statutory": true,
+    "note": "The HR leave pages sit on the login-only intranet. Public sources are the sector CAO NU (art. 4.11: full salary during maternity leave, partly paid parental leave) and a Faculty of Applied Sciences tenure-track policy that extends contract and tenure decision for maternity/parental leave."
+  },
+  {
+    "institution": "University of Naples Federico II",
+    "country": "Italy",
+    "university_urls": [
+      "https://www.unina.it/documents/d/guest/areapre-iop-flepp-pdf",
+      "https://dises.unina.it/documents/11958/57523439/UPDR_12_Mod_Maternita_obblig_flessibile_2024-06-12.pdf",
+      "https://www.dises.unina.it/documents/11958/15977952/PG_2018_0021775.pdf"
+    ],
+    "national_urls": [
+      "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.50586.indennit-per-congedo-di-maternit-e-di-paternit-alternativo-per-lavoratrici-e-lavoratori-dipendenti.html"
+    ],
+    "language": "it",
+    "academic_staff_specific": true,
+    "university_adds_to_statutory": false,
+    "note": "University documents (maternity procedure for docenti/ricercatrici, UPDR form for professors and researchers, 2018 rector's circular on RTD contract extension) only apply national law (D.Lgs 151/2001, L. 240/2010)."
+  },
+  {
+    "institution": "Universidad Autónoma de Madrid",
+    "country": "Spain",
+    "university_urls": [
+      "https://www.uam.es/uam/pdi/normativa-legal",
+      "https://www.uam.es/uam/media/doc/1606851234131/convenio-colectivo.pdf"
+    ],
+    "national_urls": [
+      "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2025/300725-prestacion-por-nacimiento.aspx",
+      "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+    ],
+    "language": "es",
+    "academic_staff_specific": true,
+    "university_adds_to_statutory": "unclear",
+    "note": "UAM's PDI legal page links the 2003 collective agreement for contract PDI at Madrid public universities (maternity per law, 100% ordinary salary from day one). Civil-servant PDI follow EBEP art. 49 (BOE), and the 2025 reform raised birth leave from 16 to 19 weeks."
+  },
+  {
+    "institution": "University of Gothenburg",
+    "country": "Sweden",
+    "university_urls": [
+      "https://www.gu.se/jobba-hos-goteborgs-universitet/anstallningsformaner"
+    ],
+    "national_urls": [
+      "https://www.forsakringskassan.se/privatperson/foralder/foraldrapenning"
+    ],
+    "language": "sv",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "Public benefits page lists föräldrapenningtillägg for all employees (10% of daily pay below the ceiling, 90% above it). The detailed employee portal (medarbetarportalen.gu.se) needs a login, and the Försäkringskassan URL comes from search results but could not be fetched."
+  },
+  {
+    "institution": "University of Amsterdam",
+    "country": "Netherlands",
+    "university_urls": [
+      "https://werkenbij.uva.nl/en/about-working-at-the-uva",
+      "https://www.universiteitenvannederland.nl/files/publications/CAO%20Nederlandse%20Universiteiten%20EN%202025-2026.pdf"
+    ],
+    "national_urls": [
+      "https://government.nl/topics/pregnancy-and-maternity-leave/applying-for-pregnancy-leave-and-maternity-leave"
+    ],
+    "language": "en",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "The UvA employer page says most salary continues during paid parental leave and that UvA pays full salary during additional birth leave. The rest is in the sector CAO NU, and the staff portal medewerkers.uva.nl could not be fetched."
+  },
+  {
+    "institution": "Aix-Marseille Université",
+    "country": "France",
+    "university_urls": [],
+    "national_urls": [
+      "https://www.service-public.gouv.fr/particuliers/vosdroits/F35890"
+    ],
+    "language": "fr",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": "unclear",
+    "note": "No public AMU page on maternity or parental leave was found, since the DRH procedures site (procedures.univ-amu.fr/drh) is intranet-only. Civil-service rules (16 weeks, full pay for State civil servants) set the baseline."
+  },
+  {
+    "institution": "KU Leuven",
+    "country": "Belgium",
+    "university_urls": [
+      "https://www.kuleuven.be/personeel/jobsite/academisch-personeel/senior-academic-staff-tenure-track-informatie",
+      "https://admin.kuleuven.be/personeel/work-life/organiseren-keuzes/praktisch"
+    ],
+    "national_urls": [
+      "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof"
+    ],
+    "language": "nl",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": "unclear",
+    "note": "UNVERIFIED: both KU Leuven URLs come from search results only and could not be fetched (the site blocks crawlers and the connection was reset), so whether they contain leave rules is unconfirmed. The federal page gives 15 weeks of maternity leave."
+  },
+  {
+    "institution": "University of Copenhagen",
+    "country": "Denmark",
+    "university_urls": [],
+    "national_urls": [
+      "https://www.borger.dk/familie-og-boern/barsel-oversigt/barsel-loenmodtagere-ny-orlovsmodel",
+      "https://medst.dk/viden-og-vaerktoejer/regler-og-rammer/barsel/",
+      "https://cirkulaere.medst.dk/love-regler-og-aftaler/cirkulaerer/2024/juli/028-24-cirkulaere-om-aftale-om-barsel-adoption-og-omsorgsdage/"
+    ],
+    "language": "da",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": "unclear",
+    "note": "No public UCPH staff leave page was found: the rules are on login-only KUnet and ism.ku.dk could not be fetched. The paid-leave layer for state employees is the state barsel agreement (MEDST circular 028-24), which sits above borger.dk's statutory 24 weeks per parent."
+  },
+  {
+    "institution": "University of Vienna",
+    "country": "Austria",
+    "university_urls": [
+      "https://personaladministration.univie.ac.at/fileadmin/user_upload/d_personalwesen/Gleichstellung/Dokumente/Handbuch_fuer__werdene__Eltern_Maerz_25_Endversion.pdf",
+      "https://personaladministration.univie.ac.at/fileadmin/user_upload/d_personalwesen/Gleichstellung/Dokumente/Handbuch_Karenzmanagement_DE_Aug24.pdf",
+      "https://personalwesen.univie.ac.at/fileadmin/user_upload/d_personalwesen/Gleichstellung/Dokumente/Handbuch_Karenzmanagement_EN_Aug24.pdf"
+    ],
+    "national_urls": [
+      "https://www.oesterreich.gv.at/de/themen/arbeit_beruf_und_pension/Karenz-und-Mutterschutz"
+    ],
+    "language": "de",
+    "academic_staff_specific": false,
+    "university_adds_to_statutory": true,
+    "note": "HR handbooks (Mar 2025, Aug 2024) cover all staff, academic staff included: Mutterschutz, Elternkarenz, Papamonat. They cite the university-sector KV §20(3), which extends fixed-term contracts by leave periods up to 3 years, plus childcare services and 3 days of birth leave."
+  }
+]

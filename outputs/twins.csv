@@ -1,0 +1,21 @@
+us,state,pfl,us_works,us_cpp,us_home,eu,country,eu_works,eu_cpp,eu_home,dist,us_id,eu_id
+University of Colorado Boulder,Colorado,True,180292,113.1,https://www.colorado.edu/,University of Liverpool,GB,176297,94.0,https://www.liverpool.ac.uk/,0.217,https://openalex.org/I188538660,https://openalex.org/I146655781
+"University of California, Los Angeles",California,True,517430,134.9,https://www.ucla.edu,University College London,GB,498066,119.0,http://www.ucl.ac.uk/,0.14,https://openalex.org/I161318765,https://openalex.org/I45129253
+New York University,New York,True,322171,107.4,https://www.nyu.edu,Ludwig-Maximilians-Universität München,DE,328625,103.1,https://www.lmu.de,0.313,https://openalex.org/I57206974,https://openalex.org/I8204097
+Princeton University,New Jersey,True,210819,130.5,https://www.princeton.edu,University of Zurich,CH,213856,121.3,https://uzh.ch/de.html,0.174,https://openalex.org/I20089843,https://openalex.org/I202697423
+Oregon State University,Oregon,True,124340,69.1,https://oregonstate.edu,University of Reading,GB,85853,63.2,https://www.reading.ac.uk,0.273,https://openalex.org/I131249849,https://openalex.org/I71052956
+Washington State University,Washington,True,155704,51.6,https://wsu.edu/,Université de Montpellier,FR,105986,61.7,https://umontpellier.fr,0.415,https://openalex.org/I72951846,https://openalex.org/I19894307
+Tufts University,Massachusetts,True,117084,124.4,https://www.tufts.edu,University of Basel,CH,118866,104.3,https://www.unibas.ch,0.225,https://openalex.org/I121934306,https://openalex.org/I1850255
+University of California San Diego,California,True,404766,143.3,https://ucsd.edu,Karolinska Institutet,SE,233624,140.5,https://ki.se,0.817,https://openalex.org/I36258959,https://openalex.org/I28166907
+University of Rochester,New York,True,163696,122.9,https://www.rochester.edu,University of Bonn,DE,166183,119.9,https://www.uni-bonn.de,0.033,https://openalex.org/I5388228,https://openalex.org/I135140700
+"University at Buffalo, State University of New York",New York,True,146337,84.6,https://www.buffalo.edu/,University of Florence,IT,154750,79.2,https://www.unifi.it,0.121,https://openalex.org/I63190737,https://openalex.org/I45084792
+University of Kentucky,Kentucky,False,169462,71.0,https://www.uky.edu,University of Nottingham,GB,191778,76.6,https://www.nottingham.ac.uk/,0.269,https://openalex.org/I143302722,https://openalex.org/I142263535
+Georgia Institute of Technology,Georgia,False,201020,93.2,https://www.gatech.edu,Delft University of Technology,NL,172514,66.4,https://www.tudelft.nl,0.34,https://openalex.org/I130701444,https://openalex.org/I98358874
+University of Cincinnati,Ohio,False,165213,91.1,http://www.uc.edu/,University of Naples Federico II,IT,180045,89.4,https://www.unina.it,0.193,https://openalex.org/I63135867,https://openalex.org/I71267560
+Florida State University,Florida,False,115971,76.4,https://www.fsu.edu/,Universidad Autónoma de Madrid,ES,123853,77.1,https://www.uam.es,0.085,https://openalex.org/I103163165,https://openalex.org/I63634437
+Case Western Reserve University,Ohio,False,184050,105.3,https://case.edu,University of Gothenburg,SE,155754,97.4,https://www.gu.se,0.217,https://openalex.org/I58956616,https://openalex.org/I881427289
+Carnegie Mellon University,Pennsylvania,False,164531,108.1,https://www.cmu.edu,University of Amsterdam,NL,221574,121.1,https://www.uva.nl,0.659,https://openalex.org/I74973139,https://openalex.org/I887064364
+Arizona State University,Arizona,False,197142,74.6,https://www.asu.edu,Aix-Marseille Université,FR,178723,78.8,https://www.univ-amu.fr/,0.149,https://openalex.org/I55732556,https://openalex.org/I21491767
+Duke University,North Carolina,False,290830,124.1,https://duke.edu,KU Leuven,BE,313750,104.7,https://www.kuleuven.be,0.266,https://openalex.org/I170897317,https://openalex.org/I99464096
+University of Michigan,Michigan,False,995140,74.8,https://www.umich.edu,University of Copenhagen,DK,328452,94.4,https://www.ku.dk,1.13,https://openalex.org/I27837315,https://openalex.org/I124055696
+Louisiana State University,Louisiana,False,163188,65.7,http://www.lsu.edu/,University of Vienna,AT,185236,68.2,https://www.univie.ac.at,0.191,https://openalex.org/I121820613,https://openalex.org/I129774422

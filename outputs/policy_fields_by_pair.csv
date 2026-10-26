@@ -1,0 +1,21 @@
+us,eu,us_w,eu_w,us_any,eu_any,us_non,eu_non,us_frame,eu_frame,us_pc,eu_pc,label,label_eu
+University of Colorado Boulder,University of Liverpool,18.0,26.0,18.0,26.0,18.0,,neutral,gendered,False,False,CU Boulder,Liverpool
+"University of California, Los Angeles",University College London,16.0,22.0,16.0,39.0,8.0,12.0,neutral,gendered,True,False,,UCL
+New York University,Ludwig-Maximilians-Universität München,6.0,,6.0,51.6,0.0,0.0,neutral,mixed,True,True,,Ludwig-Maximilians-Universität München
+Princeton University,University of Zurich,,16.0,22.0,16.0,0.0,2.0,mixed,mixed,True,False,,University of Zurich
+Oregon State University,University of Reading,3.0,18.0,3.0,39.0,3.0,,neutral,mixed,False,False,,University of Reading
+Washington State University,Université de Montpellier,0.0,16.0,16.0,16.0,0.0,,neutral,gendered,False,False,Washington St.,Montpellier
+Tufts University,University of Basel,,16.0,12.0,16.0,,4.0,neutral,mixed,False,False,,University of Basel
+University of California San Diego,Karolinska Institutet,16.0,,16.0,51.4,8.0,,neutral,neutral,False,False,,Karolinska Institutet
+University of Rochester,University of Bonn,8.6,,18.6,57.6,2.0,0.0,neutral,mixed,True,True,,University of Bonn
+"University at Buffalo, State University of New York",University of Florence,12.0,,12.0,,12.0,2.0,neutral,gendered,False,False,,University of Florence
+University of Kentucky,University of Nottingham,6.0,26.0,6.0,39.0,0.0,,neutral,gendered,False,True,Kentucky,Nottingham
+Georgia Institute of Technology,Delft University of Technology,9.0,,9.0,,6.0,,mixed,mixed,False,False,,Delft University of Technology
+University of Cincinnati,University of Naples Federico II,6.0,21.5,6.0,21.5,6.0,,neutral,gendered,True,False,,University of Naples Federico II
+Florida State University,Universidad Autónoma de Madrid,25.8,19.0,25.8,19.0,25.8,19.0,neutral,mixed,False,False,Florida St.,UA Madrid
+Case Western Reserve University,University of Gothenburg,16.0,,16.0,,16.0,,neutral,neutral,True,False,,University of Gothenburg
+Carnegie Mellon University,University of Amsterdam,16.0,,16.0,,16.0,,neutral,mixed,True,False,,University of Amsterdam
+Arizona State University,Aix-Marseille Université,12.0,16.0,12.0,16.0,12.0,,neutral,gendered,False,False,,Aix-Marseille Université
+Duke University,KU Leuven,16.0,,16.0,15.0,16.0,,neutral,gendered,True,False,,KU Leuven
+University of Michigan,University of Copenhagen,12.0,6.0,12.0,30.0,6.0,,mixed,mixed,True,True,,University of Copenhagen
+Louisiana State University,University of Vienna,6.0,,6.0,102.6,6.0,,neutral,mixed,False,True,,University of Vienna

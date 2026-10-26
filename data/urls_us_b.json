@@ -1,0 +1,113 @@
+[
+  {
+    "institution": "University of Kentucky",
+    "urls": [
+      "https://ofa.uky.edu/faculty-temporary-disability-leave-tdl-and-family-medical-leave-fml-policies-and-procedures",
+      "https://hr.uky.edu/work-life-and-well-being/working-parents/parental-leave"
+    ],
+    "page_type": "Office of Faculty Advancement faculty TDL/FML policy page (rev. Oct 2019) + HR parental leave page",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "There is no dedicated faculty paid parental leave: faculty who give birth get paid recovery leave (usually 6-8 weeks) under temporary disability leave (GR X), and the 4-week paid parental leave covers staff only; non-tenured faculty taking 6+ weeks of FML may request a 26-week probationary extension (OFA page)."
+  },
+  {
+    "institution": "Georgia Institute of Technology",
+    "urls": [
+      "https://benefits.hr.gatech.edu/birth-and-parental-leave/",
+      "https://policylibrary.gatech.edu/faculty-handbook/3.3.5-tenure"
+    ],
+    "page_type": "GT HR benefits page (implements USG/state policy) + GT Faculty Handbook section 3.3.5 Tenure",
+    "faculty_specific": false,
+    "confirmed_contains_weeks": true,
+    "note": "Paid leave is the USG-wide benefit for all employees (up to 240 hours, about 6 weeks, since 1 Jul 2024, plus 120 hours maternal birth leave for births from 1 Jul 2026); the Faculty Handbook 3.3.5 allows a probationary extension of 1 year per event (max 2) for childbirth or adoption, on request."
+  },
+  {
+    "institution": "University of Cincinnati",
+    "urls": [
+      "https://www.uc.edu/content/dam/refresh/provost-62/offices/academic-pers-/COLLECTIVE%20BARGAINING%20AGREEMENT%202025.pdf"
+    ],
+    "page_type": "UC/AAUP collective bargaining agreement 2025-2028 (Article 19.5 Paid Parental Leave; Article 19.2 Child-Rearing Leave)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Article 19.5 gives full release from duties for up to 6 continuous weeks plus release from course teaching for that semester; no tenure-clock extension is tied to PPL, only unpaid child-rearing leave of 1+ year can be excluded from the appointment term (19.2.3); covers AAUP bargaining-unit faculty only, and the provost's public PPL page now points to the intranet."
+  },
+  {
+    "institution": "Florida State University",
+    "urls": [
+      "https://hr.fsu.edu/sections/attendance-leave/paid-parental-leave",
+      "https://hr.fsu.edu/sites/default/files/PDF/UFF%202025-2028%20Bargaining%20Agreement.pdf"
+    ],
+    "page_type": "HR paid parental leave page + FSU BOT/UFF collective bargaining agreement 2025-2028 (Art. 17.7 Parental Leaves; Art. 15 Extension of Tenure-Earning Period)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Faculty get up to 6 months of paid parental leave (one or two qualifying events) with relief from teaching for one semester per event; CBA Art. 15 allows a 1-year tenure extension on request for childbirth or adoption."
+  },
+  {
+    "institution": "Case Western Reserve University",
+    "urls": [
+      "https://case.edu/facultysenate/sites/default/files/2026-07/Faculty%20Handbook%202026-2027.pdf",
+      "https://case.edu/facultysenate/handbook-and-laws/faculty-handbook"
+    ],
+    "page_type": "Faculty Handbook 2026-2027, Chapter 3 Part One Article II Section E (Faculty Paid Parental Leave Policy)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Primary caregivers get up to 16 weeks (equivalent to a semester) at 100% pay and secondary caregivers 3 weeks, with relief from all duties; a pre-tenure extension may be requested (Ch. 3 Part One Art. I G.4-7)."
+  },
+  {
+    "institution": "Carnegie Mellon University",
+    "urls": [
+      "https://www.cmu.edu/policies/faculty/faculty-parental-leave.html"
+    ],
+    "page_type": "University policy page (Faculty Parental Leave policy, effective 1 Jan 2002)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Primary-caregiver regular faculty get a one-semester paid leave (stated as a semester, not weeks), and untenured tenure-track faculty may exclude one year from the tenure clock."
+  },
+  {
+    "institution": "Arizona State University",
+    "urls": [
+      "https://public.powerdms.com/ASU/documents/1547133",
+      "https://academicpersonnel.asu.edu/parental-leave"
+    ],
+    "page_type": "ACD 710 Parental Leave with Pay (Academic Affairs Policy Manual, revised 6/1/2024) + Academic Personnel parental leave page",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "12 weeks at 100% pay (18 weeks combined if both parents are ASU employees), the eligibility wait is waived for tenured and tenure-eligible faculty, alternate duties for the semester, and leave counts as good cause for a probationary extension under ACD 506-03."
+  },
+  {
+    "institution": "Duke University",
+    "urls": [
+      "https://policies.provost.duke.edu/docs/faculty-handbook-professional-affairs-of-the-faculty",
+      "https://facultyaffairs.provost.duke.edu/faculty-time-away/types-non-academic-leaves/"
+    ],
+    "page_type": "Faculty Handbook Chapter 4 (Temporary Parental Leaves; Tenure Clock Relief) + Provost Faculty Affairs leave page",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Regular-rank faculty get a one-semester paid parental leave (up to 3 months in Medicine and Nursing) and non-regular-rank faculty 6 paid weeks, with an automatic 1-year tenure clock extension for tenure-track faculty."
+  },
+  {
+    "institution": "University of Michigan",
+    "urls": [
+      "https://spg.umich.edu/policy/201.30-6",
+      "https://spg.umich.edu/policy/201.93",
+      "https://spg.umich.edu/policy/201.92",
+      "https://provost.umich.edu/resources-policies/faculty-resources/recruitment-hiring-retention/family-friendly-policies-benefits"
+    ],
+    "page_type": "Standard Practice Guide policies (201.30-6 paid leave, 201.93 modified duties, 201.92 tenure clock) + Provost family-friendly summary page",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "note": "Six weeks of paid childbirth leave plus six weeks of paid parental leave (SPG 201.30-6, updated Feb 2025); faculty may take one term of modified duties without teaching in place of the 6-week parental leave (SPG 201.93); one year may be excluded from the tenure clock per birth or adoption, max two (SPG 201.92)."
+  },
+  {
+    "institution": "Louisiana State University",
+    "urls": [
+      "https://www.lsu.edu/administration/policies/pmfiles/pm-20.pdf",
+      "https://www.lsu.edu/academicaffairs/promotion-tenure/stopping-the-clock.php",
+      "https://www.lsu.edu/policies/ps/ps_36t.pdf"
+    ],
+    "page_type": "Permanent Memorandum PM-20 Employee Leave (rev. 19 Mar 2024) + Academic Affairs tenure clock extension page + PS-36-T tenure policy (rev. 10 Feb 2025)",
+    "faculty_specific": false,
+    "confirmed_contains_weeks": true,
+    "note": "PM-20 gives all eligible leave-earning employees up to 240 hours (6 weeks) of paid parental leave for events on or after 1 Jan 2024, without naming faculty; tenure clock extension (normally 1 year, on request) is under PS-36-T, with childbirth or adoption listed as qualifying reasons."
+  }
+]

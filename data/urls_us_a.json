@@ -1,0 +1,122 @@
+[
+  {
+    "institution": "University of Colorado Boulder",
+    "urls": [
+      "https://www.colorado.edu/compliance/policies/interim-paid-parental-leave-policy"
+    ],
+    "page_type": "campus policy (HR / Faculty Affairs)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "Colorado FAMLI (runs concurrently; university benefit reduced so total pay does not exceed 100%)",
+    "note": "Section II.1 gives tenured/tenure-track faculty 18 weeks at full pay plus a one-year tenure-clock stop per event (max two), revised 1 Jan 2024 despite the 'interim' in the URL."
+  },
+  {
+    "institution": "University of California, Los Angeles",
+    "urls": [
+      "https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-760.pdf",
+      "https://www.college.ucla.edu/aptoolkit/wp-content/uploads/2018/08/time_off_the_clock.pdf"
+    ],
+    "page_type": "UC system policy PDF (APM 760) + UCLA APO form PDF",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": null,
+    "note": "No UCLA-specific policy page found; APM 760 (rev. 1 Jan 2025) gives Senate faculty 8 weeks paid childbearing leave plus up to three quarters of leave/ASMD combined, and the UCLA APO form covers the APM 133-17 clock extension (1 year per event, 2 max)."
+  },
+  {
+    "institution": "New York University",
+    "urls": [
+      "https://www.nyu.edu/faculty/governance-policies-and-procedures/faculty-handbook/the-faculty/other-faculty-policies/leave-of-absence.html"
+    ],
+    "page_type": "faculty handbook",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": null,
+    "note": "Faculty Handbook gives 6 weeks paid childbirth recovery leave, one semester of full (or two of half) workload relief at full salary for caregiving parents, and tenure-clock stoppage up to one year; NY PFL not mentioned."
+  },
+  {
+    "institution": "Princeton University",
+    "urls": [
+      "https://dof.princeton.edu/governance/policies/childbirth-and-parenting-leaves-faculty"
+    ],
+    "page_type": "Dean of the Faculty policy",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "New Jersey Family Leave Insurance (partial pay up to 12 weeks)",
+    "note": "Paid short-term disability about 4 weeks before to 6-8 weeks after birth, one semester full (or two half) teaching relief, and an automatic one-year extension of the assistant professor appointment per child."
+  },
+  {
+    "institution": "Oregon State University",
+    "urls": [
+      "https://policy.oregonstate.edu/UPSM/05-035_paid_family_and_medical_leave",
+      "https://academicaffairs.oregonstate.edu/promotion-tenure/promotion-and-tenure-guidelines/tenure-clock-extensions"
+    ],
+    "page_type": "university policy manual (UPSM) + provost P&T guidelines",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "Oregon Paid Family Medical Leave (OPFML / Paid Leave Oregon); no claim needed to use university leave",
+    "note": "UPSM 05-035 (rev. 14 Apr 2026) gives faculty 120 hours (about 3 weeks, stated in hours not weeks) of paid family leave, and the P&T page grants a one-year clock extension for FMLA leave of 3+ months without naming birth or adoption."
+  },
+  {
+    "institution": "Washington State University",
+    "urls": [
+      "https://advance.wsu.edu/facultyfriendlypolicies/",
+      "https://policies.wsu.edu/prf/index/manuals/business-policies-and-procedures-manual/bppm-60-56/",
+      "https://hrs.wsu.edu/employees/medical-leave-and-accommodation/paid-family-and-medical-leave/"
+    ],
+    "page_type": "ADVANCE/provost faculty-friendly policies + policy manual (BPPM 60.56) + HR benefits",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "Washington Paid Family and Medical Leave (PFML), up to 12 weeks at up to 90% of wage",
+    "note": "No WSU-funded paid parental leave found: BPPM 60.56 (rev. July 2026) allows 12 weeks of parental leave covered by accrued leave plus WA PFML, and the ADVANCE page lists an automatic one-year tenure-clock extension (max two) and semester modified duties."
+  },
+  {
+    "institution": "Tufts University",
+    "urls": [
+      "https://asefaculty.tufts.edu/faculty-work-life/non-academic-leaves",
+      "https://access.tufts.edu/massachusetts-paid-family-medical-leave-pfml",
+      "https://tufts.box.com/v/handbook-faculty-as-soe"
+    ],
+    "page_type": "AS&E faculty work-life page + HR benefits (Tufts PFML plan) + AS&E faculty handbook PDF (Box)",
+    "faculty_specific": false,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "Massachusetts PFML (Tufts runs a private plan equivalent to it)",
+    "note": "The weeks come from the employee-wide Tufts PFML plan, which names faculty (12 weeks family/bonding leave plus up to 12 more weeks of caregiver leave, 26 total), while the AS&E faculty page only names teaching relief and tenure-review deferral and the Box handbook (Ch. 5) would not render for verification."
+  },
+  {
+    "institution": "University of California San Diego",
+    "urls": [
+      "https://aps.ucsd.edu/leaves_accommodations/fampol.html",
+      "https://adminrecords.ucsd.edu/PPM/docs/230-15.html"
+    ],
+    "page_type": "Academic Personnel Services page + campus policy (PPM 230-15)",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": null,
+    "note": "Childbearing leave is paid at base salary for up to 8 weeks (non-sick-leave accruers), ASMD plus leave caps at three quarters (childbearing) or two (non-childbearing), and the probationary period can be extended 1 year per event (2 max); PPM 230-15 seen in search, not fetched."
+  },
+  {
+    "institution": "University of Rochester",
+    "urls": [
+      "https://www.rochester.edu/college/faculty/governance/faculty-parental-leave-policy.html",
+      "https://www.rochester.edu/provost/faculty-support/parental-leave-guidance-for-faculty-members/"
+    ],
+    "page_type": "school faculty policy (Arts & Sciences / Hajim) + provost guidance page",
+    "faculty_specific": true,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "New York State Paid Family Leave (provost page, with outdated 2019 rates)",
+    "note": "The AS&E policy (adopted 7 Jan 2026) gives one semester at 100% or one year at 50% teaching relief and automatic tenure-clock extension (max two), and the provost page (last modified Oct 2022) gives short-term disability (about 6 weeks, at least 2 months full salary) plus 2 weeks paid parental leave."
+  },
+  {
+    "institution": "University at Buffalo, State University of New York",
+    "urls": [
+      "https://www.buffalo.edu/faculty-affairs/promotion-tenure/tenure-clock-stoppages.html",
+      "https://www.suny.edu/benefits/attendance/pfl_policy_uup/",
+      "https://www.suny.edu/benefits/attendance/"
+    ],
+    "page_type": "UB Faculty Affairs page + SUNY system HR benefits pages",
+    "faculty_specific": false,
+    "confirmed_contains_weeks": true,
+    "state_program_mentioned": "New York State Paid Family Leave (12 weeks at 67% of wage for UUP employees)",
+    "note": "No UB or SUNY page found for the 12-week SUNY Paid Parental Leave for UUP faculty (effective 11 Apr 2023); it is confirmed only in NY Comptroller bulletin SU-342.1 (https://www.osc.ny.gov/state-agencies/payroll-bulletins/state-university-new-york/su-3421-suny-paid-parental-leave-full, not a university domain), and UB's clock-stoppage page gives no length."
+  }
+]

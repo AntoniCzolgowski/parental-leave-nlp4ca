@@ -1,0 +1,1122 @@
+[
+ {
+  "institution": "arizona-state-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "Twelve weeks of paid parental leave is available to an eligible employee who is absent from work due to the birth of a child",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 12,
+    "evidence": "Paid parental leave is paid at 100 percent of the employee’s regular rate of pay (based upon FTE).",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "This paid leave may be used by birth, biological, and adoptive parents and their spouses and domestic partners.",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0.5,
+    "evidence": "accommodate requests for temporary assignment of alternative duties to the end of the academic semester in progress for tenure-track/tenured faculty",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "use of parental leave under this policy shall be considered good cause for extending the probationary period",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "This paid leave may be used by birth, biological, and adoptive parents and their spouses and domestic partners.",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "If both parents, spouses, or domestic partners are employed by ASU, the paid leave will be increased from 12 to 18 weeks",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Paid parental leave is paid at 100 percent of the employee’s regular rate of pay",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "The 12-month waiting period and 1,250 hours worked requirement is waived for tenured/tenure-eligible faculty",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "Teaching relief is only the rest of the semester in which the 12-week leave ends (coded 0.5); the older FAQ page says 'birth mother, father' and caps leave at 12 weeks per family, but the 2024 ACD 710 is neutral and allows 18 weeks for a dual-ASU couple."
+ },
+ {
+  "institution": "carnegie-mellon-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "who is the primary care giver of the child, is entitled to a one semester paid leave of absence",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "The CMU Benefits Pool will cover the salary and benefits of the faculty member during this paid leave of absence.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "A regular faculty member (tenure-track, teaching-track, librarian and archivist-track and research-track) who is the parent of a newborn child",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "may, at their discretion, exclude one year from current service for the purpose of determining the tenure decision deadline",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "primary care givers have fewer than 30 hours of child care assistance per week, paid or otherwise.",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "and who is the primary care giver of the child, is entitled to a one semester paid leave of absence",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "The CMU Benefits Pool will cover the salary and benefits of the faculty member during this paid leave of absence.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "Full pay is implied ('cover the salary'), not stated as a percentage; either parent gets the semester only as primary caregiver (presumed under 30 hours/week of childcare help), and the policy text dates from 2001-2002."
+ },
+ {
+  "institution": "case-western-reserve-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "The primary caregiver shall be entitled to up to a maximum of 16 weeks paid leave at 100% of his or her salary",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "relieved of their normal duties and responsibilities during the period of leave including research, scholarship, teaching, and service responsibilities",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "In the case of the birth of a child, if the primary caregiver is not the birth mother, the maximum total paid parental leave",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": "may request, in writing, a temporary modification in his or her workload with a corresponding reduction in compensation",
+    "confidence": "high"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "after each adoption, the provost shall grant a one-year extension of the pretenure period",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "The eligible faculty member(s) shall designate which parent is the primary caregiver and which one is the secondary caregiver",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "Up to 3 weeks of paid parental leave for the secondary caregiver to care for and bond with 1) a newborn",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "16 weeks paid leave at 100% of his or her salary and benefits during the leave",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 12,
+    "evidence": "FMLA requires that a faculty member be employed by the University for at least 12 months prior to the commencement of the leave",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "The exact amount of paid parental leave available to be taken is determined by the amount of FMLA leave available to the parent/faculty member",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Non-birth parent coded 16 weeks if designated primary caregiver (3 weeks if secondary); the now-visible Modified Workload Policy cuts workload to 50-75% with a matching pay cut, for caregivers of children needing more than basic parenting, so teaching relief at full pay is 0."
+ },
+ {
+  "institution": "duke-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "leave with pay in the event of the birth of a child, the adoption of a child (under six years of age)",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "shall be granted a one-semester, i.e., fall semester or spring semester,",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "the adoption of a child (under six years of age), or the birth of a domestic partner’s 4 child",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "an automatic one-year extension of the tenure probationary period will be approved",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "the parent requesting parental leave will be the primary caregiver to the child",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "where primary caregiver is defined as the individual who has primary responsibility for the care of the child immediately following the birth",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "if replacements for instructional time are needed, the salaries for those replacements will be paid from school or institute funds.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": "temporary medical leave and parental leaves may be available for an event that would normally qualify for FML.",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "A one-semester leave 'with pay' (rate implied, coded 16 weeks) for either parent of a multi-year regular-rank appointment, but the request must affirm the parent will be primary caregiver; the handbook gives an automatic one-year clock extension while the faculty-affairs page says 6 months; temporary medical leave text is still cut off."
+ },
+ {
+  "institution": "florida-state-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 25.8,
+    "evidence": "Up to a total of six (6) months of paid leave is available to actively funded 9 and 12-month faculty members.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 25.8,
+    "evidence": "Up to a total of six (6) months of paid leave is available to actively funded 9 and 12-month faculty members.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 25.8,
+    "evidence": "Faculty members may use the entire six (6) months of leave for one qualifying event",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": "instructional faculty members may only be relieved from regular teaching duties for one semester, per qualifying event, while using paid parental leave",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "Paid parental leave requires 3 months' notice and may start as early as the beginning date of the semester during which the birth or adoption",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "A faculty member must return to the University following paid parental leave for at least 1 academic year.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "The pay rate is not stated and teaching relief is capped at one semester per event, so the 6-month (25.8-week) full-pay figure is uncertain (16 if counted by the teaching cap); the UFF agreement text is cut off and shows no parental or tenure-clock article."
+ },
+ {
+  "institution": "georgia-institute-of-technology",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 9,
+    "evidence": "For employees who are eligible for both Maternal Birth Leave and Parental Leave, Maternal Birth Leave must be used immediately following the birth",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 9,
+    "evidence": "Paid leave of up to 120 hours for the three weeks immediately following childbirth for an eligible employee who has given birth",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "Paid leave of up to 240 hours in a rolling 12-month period for bonding or caregiving following a qualifying event.",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Approvals of extensions of the probationary period are never automatic but may be granted",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Maternal Birth Leave to support recovery from childbirth and Parental Leave to support the care and bonding with a new child.",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "The state’s parental leave law does not contain a spousal limitation provision.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "In accordance with Georgia law, the University System of Georgia (USG) provides eligible employees with Maternal Birth Leave",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 6,
+    "evidence": "Regular benefits eligible employees who work 30 hours or more per week and have at least six months of continuous USG service.",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "Full pay is implied (hours of paid leave not charged to accruals); 120 h maternal birth leave (new from 1 Jul 2026) plus 240 h parental leave gives 9 weeks for the birth parent; the leave is state-mandated but paid by the employer."
+ },
+ {
+  "institution": "louisiana-state-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "Full-time employees shall be compensated at the rate of 100% of the employee’s base pay for a period not to exceed 240 hours",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 6,
+    "evidence": "Parental leave is available for use only during the 12 weeks (84 calendar days) immediately following the commencement of the qualifying event.",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "Parental leave is only available to the legal parents, adoptive parents or foster parents of the child",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Final approval of temporary departure from the tenure track is in the sole discretion of the LSU System president or his or her designee.",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "a legal parent is a person having a genetic relationship to the child or filiated to the child through legal presumption",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "When both parents to the child for whom parental leave is taken are employed in the state service, each is entitled",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "an eligible employee may receive paid parental leave of up to 240 hours without deduction from the employee’s annual, sick, or compensatory leave balances",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 12,
+    "evidence": "have been employed by the State for at least 12 months and who have actually worked at least 1250 hours",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "high"
+   }
+  },
+  "notes": "240 hours at 100% (6 weeks) for each parent under a state-employee rule paid by LSU as employer; the tenure clock extension is a discretionary request."
+ },
+ {
+  "institution": "new-york-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "the faculty member is entitled to an aggregate of six consecutive weeks of paid leave preceding and following the date of birth.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 6,
+    "evidence": "If the leave extends beyond six weeks, the faculty member may be eligible for illness/disability leave.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "Leave by either parent for the purpose of taking care of a child or related activities, as distinguished from inability to work",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "grants one semester of workload relief from classroom teaching and administrative committee work or two semesters of half relief from such duties",
+    "confidence": "high"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "For Tenure-Track Faculty, the tenure clock may be stopped for personal reasons",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "In the case of a birth parent, workload relief will follow any child birth recovery leave taken.",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "Workload relief is not available to parents whose child is cared for more than half time during the work week by a spouse/partner",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "The faculty member’s school remains financially responsible for the faculty member’s salary during the workload relief period.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "The pay rate of the 6-week childbirth recovery leave is not stated (coded as full pay); the non-birth parent gets no paid leave, only the semester of workload relief if he or she passes the 20-hour caregiver test; source is a March 2025 Wayback copy."
+ },
+ {
+  "institution": "oregon-state-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 3,
+    "evidence": "Paid family and medical leave is paid at 100% of the employee s regular rate of pay.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 3,
+    "evidence": "Eligible Employees receive 120 hours of paid family and medical leave over a 12-month period.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 3,
+    "evidence": "If the care is for a child and both parents qualify as Eligible Employees, both parents are entitled to paid family and medical leave.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Under extenuating circumstances, a faculty member can request of the Provost and Executive Vice President that the tenure clock be extended.",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "documents that confirm the birth or adoption of a child",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "Parents may take their leave at the same time (concurrently) or at different times (independently).",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Oregon State University (university) provides eligible academic faculty and professional faculty employees with up to 120 hours of paid family and medical leave.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 6,
+    "evidence": "Has been employed for at least 180 calendar days; and,",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Paid family and medical leave runs concurrently with other leave benefits under FMLA, OFLA, and OPFML.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Only the university's 120 hours (3 weeks) at 100% are stated; Oregon Paid Family Medical Leave and short-term disability amounts are not given, so the totals may be understated."
+ },
+ {
+  "institution": "princeton-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Paid short-term disability from four weeks before to six to eight weeks after birth (or more) based on medical certification",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 22,
+    "evidence": "apply to the State of New Jersey for partial pay through NJ Family Leave Insurance for a maximum of 12 weeks",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "Current policy does not provide a paid leave of absence for a male faculty member during the period of his spouse's pregnancy",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "Workload relief should not be scheduled in the same semester in which paid leave for childbearing (a.k.a. maternity leave or short-term disability leave) is taken.",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "An automatic extension by one year of the term of appointment of an assistant professor of either sex, after the birth of an infant",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Current policy does not provide a paid leave of absence for a male faculty member",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "To qualify for workload relief, the faculty member must be the parent primarily responsible for the care of a newborn child",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "mixed",
+    "evidence": "Paid short-term disability from four weeks before to six to eight weeks after birth (or more)",
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "For details of this policy, please visit the Office of Human Resources website",
+    "confidence": "high"
+   }
+  },
+  "notes": "The STD pay rate is not stated, so full-pay weeks are null; any-pay weeks = 10 STD (4 before + 6 after birth) + 12 NJ Family Leave Insurance (mentioned in the non-birth paragraph, applied to both); the leave semester is also coursework-free, so true teaching relief is about 1.3 semesters."
+ },
+ {
+  "institution": "tufts-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "employees with sick, vacation or personal time apply their accrued time to receive full income replacement (up to 100% of base pay)",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 12,
+    "evidence": "pay and job protection up to a combined maximum of 12 weeks per benefit year",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Faculty: Refer to the handbook of their primary school affiliation for guidance.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": null,
+    "evidence": "teaching relief (for all tenure-stream faculty)",
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": null,
+    "evidence": "tenure-review deferral (for tenure-stream faculty who are not yet tenured)",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "including parental leave for the arrival of a child (birth, adoption, foster care)",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Tufts will fully fund our private modified plan, no employee payroll deductions are required",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": "Must have met minimum earnings requirement with any Massachusetts employer(s) in the last 12 months",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Faculty: Refer to the handbook of their primary school affiliation for guidance.",
+    "confidence": "high"
+   }
+  },
+  "notes": "The AS&E Faculty Handbook source is empty, so faculty-specific leave, teaching relief and tenure deferral terms are missing; only the MA PFML plan is codable (12 weeks bonding at a partial state rate, full pay only by spending accrued time; recovery medical leave could add weeks)."
+ },
+ {
+  "institution": "university-at-buffalo-state-university-of",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "Employees receive up to 12 weeks of paid parental leave per each qualifying event.",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 12,
+    "evidence": "Governor Hochul announced that New York State will provide 12 weeks of Paid Parental Leave",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "Employees who are a gestational, non-gestational, adoptive, or foster parent must have a qualifying event",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "This clock stoppage does not require approval, it does require notifications to all supervisory levels.",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "Employees who are a gestational, non-gestational, adoptive, or foster parent",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "the employee is eligible for paid parental leave at 100% (the percentage immediately prior to being placed on the paid leave of absence).",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 6,
+    "evidence": "employees in BU08 cannot utilize this leave until they have been on the payroll for at least six months.",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "For additional information, please refer to Appendix A-42 (VII. Paid Parental Leave) of the 2022-2026 UUP Agreement.",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Faculty assumed to be in the UUP unit (BU08); the clock stop needs only a form and notification, coded on_request because the faculty member must file it (no approval needed)."
+ },
+ {
+  "institution": "university-of-california-los-angeles",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "The PFCB option provides pay calculated at one hundred percent (100%) of an appointee's eligible earnings.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "A member of the Academic Senate will receive at least the member's approved base salary for up to eight (8) weeks",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 8,
+    "evidence": "the University offers eligible appointees PFCB, which is an income replacement option for up to eight (8) workweeks per calendar year.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 2,
+    "evidence": "A childbearing appointee who has a full-time appointment for at least one (1) full academic year (three (3) quarters or two (2) semesters) is eligible",
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "An academic appointee may stop the clock during the probationary period to care for any child",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "All other academic appointees are eligible for a total period of childbearing leave plus active service-modified duties of one (1) quarter",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "an academic appointee must be responsible for fifty percent (50%) or more of the care of a child.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Faculty members will continue to receive their regular monthly salary.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 9,
+    "evidence": "A childbearing appointee who has a full-time appointment for at least one (1) full academic year",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "APM - 715-14 outlines the eligibility requirements for family and medical leaves.",
+    "confidence": "medium"
+   }
+  },
+  "notes": "PFCB is now shown to pay 100% of base salary (since Jan 2023), so its 8 bonding weeks count as full pay for both parents (PFCB eligibility rests on APM 715-14 FMLA rules not in the text); teaching relief is 3 quarters minus the 8-week childbearing leave, about 1.5 semesters, rounded to 2; leave of a quarter or more is automatically excluded from the 8-year clock, but the one-year stop needs notice."
+ },
+ {
+  "institution": "university-of-california-san-diego",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "An academic appointee on childbearing leave who does not accrue sick time will receive their approved base salary for up to eight (8) weeks.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "Up to eight (8) weeks paid for academic appointees who do not accrue sick leave",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 8,
+    "evidence": "Parental Bonding Leave is provided to all eligible academic appointees with responsibility for the care of a newborn child",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "The total combined period of Active Service Modified Duties (ASMD), Childbearing Leave, and Parental Bonding Leave will not exceed the equivalent of three (3) quarters",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "will automatically receive a one-year extension of the probationary period, unless the appointee opts out.",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "will not exceed the equivalent of three (3) quarters for childbearing candidates and two (2) quarter for non-childbearing candidates",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "Parental Bonding Leave is provided to all eligible academic appointees with responsibility for the care of a newborn child",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "will receive their approved base salary for up to eight (8) weeks",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Childbearing leave is provided to academic appointees, regardless of length of service",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "they may be eligible to apply for additional paid medical leave",
+    "confidence": "medium"
+   }
+  },
+  "notes": "This campus page calls the 8 bonding weeks 'paid' with no rate (coded full pay: 8 childbearing + 8 bonding), while UC APM 760 in the UCLA bundle calls that pay PFCB 'income replacement'; the PPM 230-15 source is empty."
+ },
+ {
+  "institution": "university-of-cincinnati",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "Full release from all duties for up to six (6) continuous weeks which shall not be taken from sick leave or vacation leave",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 6,
+    "evidence": "the length of PPL desired (up to 6 continuous weeks)",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "During the period of the PPL, the Faculty Member must be the Primary Caregiver for the child.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0.5,
+    "evidence": "Release from specifically assigned course teaching duties for the same academic semester during which PPL is taken.",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Primary Caregiver of a newly born infant or a newly adopted child under the age of seven (7) may request, within the first year",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "PRIMARY CAREGIVER shall mean someone who has primary responsibility for the care of a child following the birth",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "a signed affidavit attesting to the fact that the Faculty Member will be the Primary Caregiver for the child during the PPL.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "which shall not be taken from sick leave or vacation leave",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "PPL pay is implied (paid leave not charged to sick leave), not stated as a rate; course release covers the rest of the PPL semester (coded 0.5); PPL and the appointment extension both require primary caregiver status."
+ },
+ {
+  "institution": "university-of-colorado-boulder",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 18,
+    "evidence": "Tenured and Tenure Track Faculty receive 18 weeks of parental leave at full pay, without using accrued sick leave",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 18,
+    "evidence": "Tenured and Tenure Track Faculty receive 18 weeks of parental leave at full pay",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 18,
+    "evidence": "A biological parent, adoptive parent, foster parent, guardian or a spouse, domestic partner or civil union partner of a parent",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": "encourages chairs and deans to allow tenure-track faculty members who assume exceptional caregiving responsibilities to apply for modiﬁcation in workload for up to one semester",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "Parental leave results in a \"stop\" on the tenure clock; such \"stops\" must be taken in one-year increments.",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "The intention of this policy is to set forth the leave that a parent may take",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "paid and unpaid leaves under this policy may be taken simultaneously or may be staggered within 12 months",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "If used, parental leave benefit will be decreased to accommodate FAMLI usage. Wages shall not exceed 100% pay.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Eligible on first day of employment if date of hire precedes first day of qualifying event.",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "FAMLI is a state law that guarantees Colorado workers 12 weeks per year of partial wage replacement",
+    "confidence": "medium"
+   }
+  },
+  "notes": "18 weeks at full pay for both parents, with state FAMLI running concurrently and reducing the university share (FAMLI rate not stated); the one-semester workload change is only encouraged, not an entitlement, so teaching relief is 0."
+ },
+ {
+  "institution": "university-of-kentucky",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "The recovery for childbirth is established by the appropriate health care provider, usually 6-8 weeks. These recovery periods are paid.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 6,
+    "evidence": "an employee may take the balance of up to 12 weeks using available balances of paid vacation leave and then unpaid leave",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "In addition to job-protected time away, the university provides staff employees four weeks of paid parental leave.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Non-tenured faculty may apply for an extension of the probationary period of 26 weeks (six months)",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "If a 9-month faculty employee becomes a new parent through childbirth or placement (FML-qualifying event)",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Eligible faculty members who are totally disabled are entitled to six (6) months' TDL with pay.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Faculty TDL, however, is available at the onset of employment.",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "Birth recovery pay comes from temporary disability leave (usually 6-8 weeks, coded 6); the HR page's 'For faculty ... six to eight weeks of paid sick leave' could be read as covering non-birth parents, but TDL is tied to disability and the 4-week paid parental leave is staff-only, so non-birth is 0."
+ },
+ {
+  "institution": "university-of-michigan",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "Employees who give birth are eligible for up to six weeks (240 hours with a full-time appointment) of paid time off for physical recovery",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 12,
+    "evidence": "Staff members and eligible faculty will receive their regular compensation while taking maternity (childbirth) and parental leaves.",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "Parents are provided with paid time off to bond with a newborn, newly adopted or newly fostered child",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "For birth mothers who are eligible faculty only, a second term of modified duties (as provided for above) will be granted upon request.",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "a woman who bears one or more children during her tenure probationary period shall, upon written request to the relevant dean",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "the university provides paid maternity (childbirth) leave and paid parental leave.",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "that is at least as time-consuming as the care-giving responsibility of the faculty member’s spouse or partner",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "The rate of pay will be their regular rate at the time of absence",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 6,
+    "evidence": "Employees who are in their first six months of service at the time of birth/placement are eligible for up to three weeks",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "Faculty may take the 6-week parental leave in lieu of one semester of modified duties: coded 12 weeks paid leave (6 childbirth + 6 parental) plus the birth parent's remaining second term of teaching relief (alternative: 6 weeks plus 2 terms); the non-birth parent picks 6 weeks or one term, and modified duties and the dependent-care clock need care at least equal to the partner's."
+ },
+ {
+  "institution": "university-of-rochester",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 8.6,
+    "evidence": "worked for the University of Rochester more than 4 weeks before giving birth can expect at least 2 months at full salary",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 18.6,
+    "evidence": "faculty members who have already taken 2 weeks of Faculty parental leave and 10 weeks of paid family leave",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 2,
+    "evidence": "you may be eligible for 2 weeks of paid Faculty parental leave",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "This reduction may be either one semester of 100% teaching relief, or one academic year of 50% teaching relief",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "SAS and Hajim also provide an automatic extension of the tenure clock (if applicable) for the birth or adoption of a child",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "For those parents who adopt or whose partner gives birth to a child",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "If both parents work for the University, only one parent can be designated as a primary caregiver.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "mixed",
+    "evidence": "Payment will come directly from the Hartford to the employee and will not be paid through the University payroll.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 1,
+    "evidence": "more than 4 weeks before giving birth can expect at least 2 months at full salary",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Your pay rate during this period is set according to Human Resources Policy 339",
+    "confidence": "high"
+   }
+  },
+  "notes": "Any-pay weeks add 10 weeks of NYS Paid Family Leave (55%, cap quoted for 2019) taken from the page's own example because its maximum length is not stated; teaching relief and the automatic clock are SAS/Hajim school rules; payer mixed (university-paid STD, Hartford-paid PFL)."
+ },
+ {
+  "institution": "washington-state-university",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "The benefit is generally up to 90 percent of your weekly wage, with a maximum of $1,647 in 2026.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "If workers experience multiple events in a given year, they may be eligible to receive up to 16 weeks",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "When leave is taken, the benefit is paid by the State of Washington rather than the employer.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 1,
+    "evidence": "Faculty members with significant caregiving responsibilities may alter their duties for a semester away from inflexible responsibilities (e.g., teaching) toward more flexible ones",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "will automatically be granted a one-year extension of the tenure clock when the faculty member is a caregiver",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "Full-time faculty members on the tenure track who become a parent of a child or multiples by birth, adoption, or fostering",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "When both parents are members of the faculty and share equally in caregiving responsibilities, each parent will be granted a one-year extension.",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "PFML is a mandatory statewide insurance program funded at WSU by Employer and Employee premiums.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 4.8,
+    "evidence": "Employees who have worked 820 hours in the qualifying period (equal to 16 hours a week for a year)",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   }
+  },
+  "notes": "No university-paid parental leave beyond accrued leave; WA PFML pays up to 90% with a weekly cap, so it is not counted as full pay; 16 any-pay weeks assumes postnatal medical leave plus bonding count as multiple events (12 typical, 18 with pregnancy incapacity); 820 hours converted to 4.8 months full-time."
+ }
+]

@@ -1,0 +1,562 @@
+[
+ {
+  "institution": "university-of-liverpool",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 26,
+    "evidence": "You may be paid at full salary for the first 26 weeks of your Maternity Leave.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 26,
+    "evidence": "You may be entitled to varying levels of Maternity Pay during your Maternity Leave.",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "The University has made improvements to its Maternity, Adoption, Paternity and Shared Parental Leave policies.",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "You may be paid at full salary for the first 26 weeks of your Maternity Leave.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": "Please see the maternity policy for details of eligibility for statutory and occupational maternity pay.",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Please see the maternity policy for details of eligibility for statutory and occupational maternity pay.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Only summary web pages are in the text (policy PDF, pay eligibility and paternity rules missing), so paid-weeks-any is a floor of 26 and non-birth leave is unknown."
+ },
+ {
+  "institution": "university-college-london",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 22,
+    "evidence": "making a continuous block of 22 weeks on full pay.",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 39,
+    "evidence": "SMP or SMA is payable for a 39 week period.",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 12,
+    "evidence": "paid Paternity/ Partner's leave is increasing from 4 weeks to 12 weeks",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0.5,
+    "evidence": "are entitled to take one term of Research Leave, without teaching commitments",
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "paid Paternity/ Partner's leave is increasing from 4 weeks to 12 weeks, and paid Maternity and Adoption leave is increasing from 18 to 22 weeks",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Occupational Maternity, Adoption, Paternity and Shared Parental pay is funded centrally",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "There is no qualifying length of service.",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "SMP is included in OMP where applicable.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Rules for births from 1 May 2026 (22 weeks full pay, or 11 full + 22 half, then SMP/SMA to week 39); the 12-week partner leave is called paid but its pay rate is not stated; one UK term of teaching-free research leave was mapped to 0.5 semester (could be read as 1 since teaching runs in two terms); SMP itself needs 26 weeks' service."
+ },
+ {
+  "institution": "ludwig-maximilians-universit-t-m-nchen",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "§ 20 Zuschuss zum Mutterschaftsgeld",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 51.6,
+    "evidence": "Basiselterngeld (Betrag pro Monat: mindestens 300 Euro, höchstens 1.800 Euro, maximal für 12 Monate)",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "Als Basiselterngeld bekommen Sie normalerweise 65 % des Netto-Einkommens, das Sie vor der Geburt hatten",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "berät das wissenschaftliche Personal bei Fragen zu Vertragsverlängerungen bei Mutterschutz und Elternzeit",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Weitere Informationen zu Elternzeit und Mutterschutz",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "Paare (und getrennt Erziehende) können 14 Lebensmonate Basiselterngeld untereinander aufteilen.",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "Das Elterngeld ist eine staatliche Förderung und gleicht fehlendes Einkommen aus.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Für das Elterngeld kommt es nicht auf Ihr Arbeitsverhältnis an.",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Mutterschutz, Elternzeit und Pflegezeit: Service des Dezernat Personal (zugriffsgeschützt für Beschäftigte der LMU im Serviceportal)",
+    "confidence": "high"
+   }
+  },
+  "notes": "The LMU staff portal page returned an error and Mutterschutz length and pay are only named (law headings), so full-pay weeks are unknown; paid weeks rest on 12 months of Basiselterngeld at 65% (24 months with ElterngeldPlus); contract extension is only mentioned as an advice topic."
+ },
+ {
+  "institution": "university-of-zurich",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "Anspruch auf 16 Wochen voll bezahlten Mutterschaftsurlaub",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "Es besteht aber auch die Möglichkeit, für die Zeit nach dem Mutterschaftsurlaub noch unbezahlten Urlaub zu beantragen",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 2,
+    "evidence": "Der bezahlte Urlaub beträgt zwei Wochen.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "verlängert werden, falls dies dem Wunsch der Angestellten entspricht und es betrieblich möglich ist",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Leave for the Other Parent (Previously Paternity Leave)",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "If both parents are employed by the canton, each parent may be granted up to eight weeks' paid leave.",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "mixed",
+    "evidence": "Die Ersatzleistungen der Ausgleichskasse EOV betragen 14 Wochen à 80 % des massgeblichen Lohnes, jedoch höchstens CHF 220.00 pro Tag",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "all employees who have an employment relationship with UZH on the date on which they give birth are entitled to 16 weeks' paid maternity leave",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "Die Mutterschaftsentschädigung wird als Taggeld ausgerichtet und beträgt 80% des vor der Niederkunft erzielten durchschnittlichen Erwerbseinkommens",
+    "confidence": "high"
+   }
+  },
+  "notes": "UZH pays full salary for 16 weeks and is reimbursed by the EO (80%, capped) for 14 weeks; the extension rule coded is the general on-request one for fixed-term posts (the 'in der Regel' extension names only doctoral/postdoc posts, not assistant professors); the other parent's 2 weeks are 'paid' with no stated rate."
+ },
+ {
+  "institution": "university-of-reading",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 18,
+    "evidence": "18 weeks on full pay (inclusive of SMP, if eligible) then;",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 39,
+    "evidence": "SMP is paid over the first 39 weeks of Maternity Leave",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Childbirth/Adoption Support leave (formerly known as paternity leave)",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": "relief from teaching for an additional period or any other support that may be identified",
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": "the case for extending or renewing your contract will be considered in the normal way",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Childbirth/Adoption Support leave (formerly known as paternity leave)",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "18 weeks on full pay (inclusive of SMP, if eligible) then;",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 6,
+    "evidence": "if you have been continuously employed with the University for at least 26 weeks continuing into the Qualifying Week",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "SMP is a taxable weekly government benefit which is paid by the employer during Maternity Leave to women who qualify for SMP.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Occupational pay (18 weeks full, then 21 weeks SMP) requires declaring an intent to return and is repayable if the employee leaves within three months; teaching relief is only a discretionary use of return-to-work funds; the support (ex-paternity) leave terms are not in the text."
+ },
+ {
+  "institution": "universit-de-montpellier",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "1 er enfant 6 semaines 10 semaines 16 semaines",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "1 er enfant 6 semaines 10 semaines 16 semaines",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "le père peut demander à bénéficier du congé postnatal pour la durée restant à courir et reporter son congé de paternité",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "La période de congé de maternité au delà de 1/10 e de la durée du stage prolonge votre stage",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "Congé de maternité dans la fonction publique",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "Les primes et indemnités vous sont versées en totalité.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Pour pouvoir bénéficier du congé de maternité, vous devez être en position d'activité, de détachement ou de congé parental",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "À la fin de votre congé de maternité, vous pouvez demander à bénéficier du congé supplémentaire de naissance",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Only the national service-public page for civil servants is in the text (no Montpellier page, no paternity or 'congé supplémentaire de naissance' terms); the maître de conférences was coded as a fonctionnaire with full traitement and primes, and the stage-extension rule only matters during the probationary year."
+ },
+ {
+  "institution": "university-of-basel",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "Mitarbeitenden steht für die gesamte Dauer der 16 Wochen bezahlter Absenz ihr volles Gehalt zu.",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "Im Anschluss an eine bezahlte Absenz haben Mitarbeitende Anspruch auf eine unbezahlte Absenz von maximal 16 Wochen.",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 4,
+    "evidence": "Die Universität Basel gewährt bei Geburt eines Kindes einen Vaterschafts- bzw. Elternschaftsurlaub von 4 Wochen.",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "Eine Assistenzprofessur kann in begründeten Fällen durch die Fakultät und mit der Zustimmung des Rektorats um maximal zwei Jahre verlängert werden.",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Für Mitarbeitende, die selber ein Kind austragen, gelten die Bestimmungen der Mutterschaft",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "mixed",
+    "evidence": "Stellvertretungen können grundsätzlich in der Höhe der Lohnsumme, die von der Mutterschaftsentschädigung zurückerstattet wird, angestellt werden",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "Die Mutterschaftsentschädigung wird als Taggeld ausgerichtet und beträgt 80% des vor der Niederkunft erzielten durchschnittlichen Erwerbseinkommens",
+    "confidence": "high"
+   }
+  },
+  "notes": "The Basel brochure is a garbled two-column PDF (quotes de-interleaved) and is truncated before service conditions; salary for the 16 weeks lapses if the employee does not return; the 4-week other-parent leave is paid but its rate is not stated."
+ },
+ {
+  "institution": "karolinska-institutet",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Parental pay consists of 10% of the salary. If your salary exceeds the ceiling for parental benefits, you will receive additional compensation.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 51.4,
+    "evidence": "available for up to 360 days per childbirth",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "the person who is the child's second parent has an independent right to leave for 10 working days per child",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "An employee who is on leave for the birth of a child or the care of an adopted child is entitled to parental pay.",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "KI will adjust salary deductions according to the extent of the parental leave.",
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Further details on parental allowance are available on the Swedish Social Insurance Agency's website",
+    "confidence": "high"
+   }
+  },
+  "notes": "KI adds 10% of salary (more above the benefit ceiling) for up to 360 calendar days per birth, but the state parental allowance level and length are not stated, so full-pay weeks cannot be computed; the local agreement (second source) is empty."
+ },
+ {
+  "institution": "university-of-bonn",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "in der Regel finanziell abgesichert durch das Mutterschaftsgeld und einen Zuschuss, den der Arbeitgebende zu tragen hat",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 57.6,
+    "evidence": "In der Regel 6 Wochen vor der Geburt. ... Basiselterngeld für maximal 12 Monate",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 0,
+    "evidence": "Je nach Höhe des Einkommens ersetzt das derzeitige Elterngeld das wegfallende Einkommen zwischen 65-67%.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": "Diese Regelung gilt auch für wissenschaftliches Personal mit Zeitverträgen.",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Mutterschutz, Elternzeit und Elterngeld",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "Das klassische Basis-Elterngeld kann maximal 14 Monate gezahlt werden, wenn beide Elternteile in Elternzeit gehen.",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "Elterngeld stellt eine Entgeltersatzleistung für Familien dar",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Das Mutterschutzgesetz gilt für alle werdenden Mütter, die in einem Arbeitsverhältnis stehen.",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Für Beamtinnen gelten besondere Regelungen.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Mutterschutz (6 weeks before, 8 after birth) is covered by Mutterschaftsgeld plus an employer top-up but no pay level is stated, so full-pay weeks are unknown; paid weeks = 6 pre-birth weeks + 12 months Basiselterngeld at 65-67%; a Juniorprofessor who is a Beamtin falls under separate rules not in the text."
+ },
+ {
+  "institution": "university-of-florence",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "durante il congedo di maternità della madre lavoratrice",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 2,
+    "evidence": "È riconosciuta un’indennità giornaliera pari al 100% della retribuzione",
+    "confidence": "high"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "Congedo di paternità obbligatorio",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "payer": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": "Il padre o la madre intenzionale devono essere titolari di un rapporto di lavoro dipendente",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "durante il congedo di maternità della madre lavoratrice",
+    "confidence": "high"
+   }
+  },
+  "notes": "Only the INPS page on the 10-working-day compulsory paternity leave (100% pay) is in the text; birth-parent maternity length and pay are not stated and there is no University of Florence page."
+ }
+]

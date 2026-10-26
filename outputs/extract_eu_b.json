@@ -1,0 +1,562 @@
+[
+ {
+  "institution": "university-of-nottingham",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 26,
+    "evidence": "26 weeks’ leave on full pay* (inclusive of any SMP)",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 39,
+    "evidence": "13 weeks’ leave on SMP at the appropriate rate",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "fathers/partners/civil partners will be able to take between two and 26 weeks’ additional paternity leave once the mother has returned to work",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": "All payments under the University’s Maternity Leave Policy will cease upon expiry of the contract.",
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "An employee may not return to work within two weeks of the birth of her child",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "once the mother has returned to work subject to her not exhausting her full statutory maternity leave and other eligibility criteria",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "26 weeks’ leave on full pay* (inclusive of any SMP)",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 12,
+    "evidence": "has a minimum of 52 weeks’ continuous service with the University, up to and including the EWC",
+    "confidence": "high"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "For further details, please see the Parental Support Policy",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Enhanced pay (26 weeks full pay incl. SMP + 13 weeks SMP) needs 52 weeks' service; the non-birth parent's pay sits in a separate Parental Support Policy not in the text (only the outdated additional paternity leave is mentioned), and the SMP standard rate is not quantified."
+ },
+ {
+  "institution": "delft-university-of-technology",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "The employment contract will include a clause that extends the final date of the contract and the tenure decision in the case of maternity and/or parental leave",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "The period as tenure track candidate may be extended by maternity leave, paternity leave and/or adoption leave.",
+    "confidence": "low"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "payer": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "you are entitled to partially-paid parental leave",
+    "confidence": "high"
+   }
+  },
+  "notes": "The bundle holds the Applied Sciences tenure-track policy (its contract-extension sentence is split across PDF columns in the extraction) and a CAO NU excerpt truncated before the leave chapter, so no leave length or pay rate is stated for either parent."
+ },
+ {
+  "institution": "university-of-naples-federico-ii",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 21.5,
+    "evidence": "da cui percepiscono la relativa indennità, corrispondente al trattamento economico, secondo quanto disposto dagli articoli 2 e 57 del TU",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 21.5,
+    "evidence": "Congedo di maternità con flessibilità: astensione obbligatoria un mese prima e quattro mesi dopo il parto",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Ai padri spettano anche dieci giorni di congedo di paternità obbligatorio di cui all’art.27-bis del d.lgs. 151/2001.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "Indennità per congedo di maternità e di paternità alternativo per lavoratrici e lavoratori dipendenti",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "In presenza di determinate condizioni che impediscono alla madre di beneficiare del congedo, l'astensione dal lavoro spetta al padre",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "verso l'amministrazione pubblica dalla quale dipendono e da cui percepiscono la relativa indennità",
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "con un rapporto di lavoro in corso all'inizio del congedo",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "si invita a prendere visione della Circolare INPS n° 106 del 29-09-2022",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Only national rules: 5 months of maternity leave, paid at 80% by INPS in general but for public-administration employees by the employer at an amount 'corrispondente al trattamento economico' (read as full pay, assuming the university counts as a public administration); the 10-day paternity leave has no stated pay and nothing covers RTD contract extension."
+ },
+ {
+  "institution": "universidad-aut-noma-de-madrid",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 19,
+    "evidence": "Permiso por nacimiento para la madre biológica: tendrá una duración de diecinueve semanas.",
+    "confidence": "medium"
+   },
+   "birth_paid_weeks_any": {
+    "value": 19,
+    "evidence": "iguales para madres y padres, intransferibles, con cobertura del 100% por la Seguridad Social.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": 19,
+    "evidence": "aprobó la ampliación del permiso por nacimiento y cuidado del menor, que pasa de 16 a 19 semanas, iguales para madres y padres, intransferibles",
+    "confidence": "medium"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "A efectos de lo dispuesto en este apartado, el término de madre biológica incluye también a las personas trans gestantes.",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "Este permiso, constituye un derecho individual de la madre biológica, sin que pueda transferirse su ejercicio.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "La cuantía de estas prestaciones es equivalente a la base reguladora y se abona directamente por el Instituto Nacional de la Seguridad Social",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": false,
+    "evidence": "el personal laboral al servicio de las Administraciones públicas se regirá por lo previsto en el presente Estatuto",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Coded from national EBEP art. 49 (which the text says governs birth permits for labour-contract staff such as a profesor ayudante doctor) and the July 2025 extension to 19 weeks with 100% Social Security coverage; 2 of the 19 weeks can be taken up to age 8, and the 2003 convenio's 4 paid days for a birth were not added."
+ },
+ {
+  "institution": "university-of-gothenburg",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Tillägget är 10 procent av daglönen upp till basbeloppstaket. På lönedelar som överstiger basbeloppstaket är föräldrapenningtillägget 90 procent av daglönen.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": null,
+    "evidence": "För varje dag du tar ut föräldrapenning över grundnivå från Försäkringskassan utbetalas ett föräldrapenningtillägg.",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "För varje dag du tar ut föräldrapenning över grundnivå från Försäkringskassan utbetalas ett föräldrapenningtillägg.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": "biträdande universitetslektor",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "neutral",
+    "evidence": "Hos oss kan du få olika tillägg, beroende på om du är föräldraledig eller sjuk under en längre tid.",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "För varje dag du tar ut föräldrapenning över grundnivå från Försäkringskassan utbetalas ett föräldrapenningtillägg.",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "För varje dag du tar ut föräldrapenning över grundnivå från Försäkringskassan utbetalas ett föräldrapenningtillägg.",
+    "confidence": "high"
+   }
+  },
+  "notes": "Only a benefits page: a 10% supplement on top of Försäkringskassan parental benefit (90% on pay above the ceiling), with neither the statutory benefit rate nor the number of days stated, so no week counts can be coded."
+ },
+ {
+  "institution": "university-of-amsterdam",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": null,
+    "evidence": "can take a period of parental leave during which a large part of their salary will continue to be paid",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "The University of Amsterdam (UvA) has made the conscious decision to pay the entire salary during the birth leave.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "tenure_clock": {
+    "value": "on_request",
+    "evidence": "cannot yet be established due to illness, pregnancy leave, maternity leave or occupational disability, the temporary employment contract can be extended",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "illness, pregnancy leave, maternity leave, parental leave, occupational disability",
+    "confidence": "low"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "payer": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "UvA staff members are covered by the agreements as laid out in the Collective Labour Agreement for Dutch Universities (CAO NU)",
+    "confidence": "high"
+   }
+  },
+  "notes": "The UvA page says the WIEG additional birth leave for partners is paid at 100% but never states its length, and the CAO excerpt is truncated before the leave chapter; the extension rule is the CAO's discretionary extension of a temporary assistant professor contract (Art. 2.5 on employee-request extensions is cut off)."
+ },
+ {
+  "institution": "aix-marseille-universit",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 16,
+    "evidence": "Les primes et indemnités vous sont versées en totalité.",
+    "confidence": "high"
+   },
+   "birth_paid_weeks_any": {
+    "value": 16,
+    "evidence": "1 er enfant 6 semaines 10 semaines 16 semaines",
+    "confidence": "high"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "reporter son congé de paternité à la fin de ce congé postnatal",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "La période de congé de maternité au delà de 1/10 e de la durée du stage prolonge votre stage",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "Vous êtes en activité ou en congé parental et vous êtes enceinte ? Vous bénéficiez du congé de maternité",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "Si le père de l'enfant ne demande pas à bénéficier du congé postnatal pour la durée restant à courir, ce congé peut être accordé",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "university",
+    "evidence": "et le supplément familial de traitement - SFT (si vous avez déjà au moins 1 enfant) vous sont versés en totalité",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Pour pouvoir bénéficier du congé de maternité, vous devez être en position d'activité, de détachement ou de congé parental",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "vous pouvez demander à bénéficier du congé supplémentaire de naissance",
+    "confidence": "medium"
+   }
+  },
+  "notes": "Only the national service-public page for the fonction publique (16 weeks at full pay for a first child); paternity and the 'congé supplémentaire de naissance' are named but not described, and tenure_clock assumes the maître de conférences is a fonctionnaire stagiaire whose stage is prolonged by maternity leave beyond 1/10 of its length."
+ },
+ {
+  "institution": "ku-leuven",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "De werkgever dient dus geen loon uit te keren tijdens het moederschapsverlof.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 15,
+    "evidence": "Een werkneemster die gaat bevallen, heeft recht op een moederschapsverlof van vijftien weken.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "kunnen de niet-opgebruikte periodes van moederschapsverlof op zijn verzoek worden opgenomen door de werknemer die recht heeft op geboorteverlof",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": null,
+    "evidence": "tenure track loopbaantraject dat hen gedurende vijf jaar op basis van vooraf en in overleg vastgelegde criteria de kans geven",
+    "confidence": "low"
+   },
+   "framing": {
+    "value": "gendered",
+    "evidence": "Omzetting van moederschapsverlof in verlof voor de vader of de meemoeder",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": false,
+    "evidence": "Bij hospitalisatie of overlijden van de moeder kunnen de niet-opgebruikte periodes van moederschapsverlof op zijn verzoek worden opgenomen",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "een moederschapsuitkering die volledig ten laste van de ziekte- en invaliditeitsverzekering (moederschapsverzekering) valt",
+    "confidence": "medium"
+   },
+   "service_requirement_months": {
+    "value": null,
+    "evidence": null,
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Voor de personeelsleden uit de openbare sector en het onderwijs kunnen er evenwel specifieke bepalingen gelden.",
+    "confidence": "high"
+   }
+  },
+  "notes": "The federal page gives 15 weeks of maternity leave paid by the health insurer (rate not stated, no employer salary) but warns that public-sector and education staff may have specific rules; the partner's birth leave and any extension of the 5-year tenure track are not stated."
+ },
+ {
+  "institution": "university-of-copenhagen",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": 6,
+    "evidence": "En kommende mor ansat i staten har ligesom tidligere ret til at påbegynde graviditetsorlov med løn 6 uger før forventet fødsel.",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 30,
+    "evidence": "Familier, hvor forældrene bor sammen ved fødslen, har hver som udgangspunkt ret til 24 ugers orlov med barselsdagpenge efter fødslen.",
+    "confidence": "medium"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Lønretten i barselsaftalen med tilhørende administrationsgrundlag er øremærket hhv. mor og far/medmor, uanset om begge forældre er statsansatte.",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "not_applicable",
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Orlov til far eller medmor, hvis I bor sammen ved fødslen",
+    "confidence": "medium"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "en forælder efter fødslen kan holde mere end 24 ugers orlov med barselsdagpenge, hvis den anden forælder har overdraget orlov til ham eller hende",
+    "confidence": "medium"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "Hvis du får løn under din barsel, får din arbejdsgiver barselsdagpengene imens.",
+    "confidence": "low"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Du skal være ansat på den første dag i din orlov eller dagen før.",
+    "confidence": "medium"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Nogle overenskomster og virksomheder giver ret til fuld løn under hele eller dele af orloven.",
+    "confidence": "high"
+   }
+  },
+  "notes": "6 full-pay weeks is a lower bound (the pre-birth pregnancy leave with salary for state employees); the state barselsaftale's post-birth salary weeks for mother and father/co-mother are referenced but not in the text, so the remaining 24 weeks are counted only as barselsdagpenge (capped at DKK 137.43/hour)."
+ },
+ {
+  "institution": "university-of-vienna",
+  "fields": {
+   "birth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Schutzfrist = Beschäftigungsverbot 8 Wochen vor und 8 Wochen nach der Geburt",
+    "confidence": "low"
+   },
+   "birth_paid_weeks_any": {
+    "value": 102.6,
+    "evidence": "Es besteht Rechtsanspruch auf Elternkarenz bis zum Ablauf des 22. Lebensmonats des Kindes, sofern die Elternkarenz zwischen den Elternteilen nicht geteilt wird.",
+    "confidence": "low"
+   },
+   "nonbirth_fullpay_weeks": {
+    "value": null,
+    "evidence": "Frühkarenz ist ein unbezahlter Urlaub im Falle einer Geburt/einer Adoption/Übernahme eines Pflegekindes für den Vater bzw. anderen Elternteil",
+    "confidence": "low"
+   },
+   "teaching_relief_semesters": {
+    "value": 0,
+    "evidence": null,
+    "confidence": "medium"
+   },
+   "tenure_clock": {
+    "value": "automatic",
+    "evidence": "Gemäß § 20 Abs 3 KV verlängert sich ein befristetes Arbeitsverhältnis um Zeiten des Beschäftigungsverbots und einer Karenz nach MSchG oder VKG",
+    "confidence": "high"
+   },
+   "framing": {
+    "value": "mixed",
+    "evidence": "Elternkarenz Mutter bzw. gebärender Elternteil (Beginn/Dauer): während der Schutzfrist/bis Ende der Schutzfrist",
+    "confidence": "high"
+   },
+   "primary_caregiver_clause": {
+    "value": true,
+    "evidence": "Beide Elternteile dürfen sich nicht zur selben Zeit in Karenz befinden.",
+    "confidence": "high"
+   },
+   "payer": {
+    "value": "state_or_insurance",
+    "evidence": "Karenz bedeutet die Freistellung von der Arbeitsleistung gegen Entfall des Entgelts. Es besteht jedoch Anspruch auf Kinderbetreuungsgeld für diesen Zeitraum.",
+    "confidence": "high"
+   },
+   "service_requirement_months": {
+    "value": 0,
+    "evidence": "Eine Elternkarenz ist bei Vorliegen eines gemeinsamen Haushalts mit dem Kind möglich.",
+    "confidence": "low"
+   },
+   "relies_on_outside_rules": {
+    "value": true,
+    "evidence": "Anforderung einer Arbeits- und Entgeltbestätigung bei HR Services (zur Wochengeld-Berechnung nötig)",
+    "confidence": "high"
+   }
+  },
+  "notes": "The 16-week Schutzfrist is paid by Wochengeld of unstated amount, so full-pay weeks are null; birth_paid_weeks_any counts Elternkarenz (no salary, Kinderbetreuungsgeld of unstated amount) to the child's 22nd month (8 + 22 x 4.3 weeks) and would be 16 if KBG were excluded; the 3-day Sonderurlaub for the non-birth parent has no stated pay."
+ }
+]
