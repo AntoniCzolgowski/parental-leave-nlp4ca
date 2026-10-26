@@ -1,4 +1,4 @@
-# Prompt given to the second and third coders (GPT-6.1 in ChatGPT, Grok)
+# Prompt given to the second and third coders (GPT-6.1 in ChatGPT, Grok 4.7 Fast)
 
 Run by Antoni in a fresh chat, with the 10 policy texts attached (the same bundles the extractor read). Grok first received all 10 in one combined file and returned 4 as "no text provided"; it was re-run, and its complete second answer is in `outputs/coder3_grok.csv` (first run: `outputs/coder3_grok_run1_partial.csv`).
 
