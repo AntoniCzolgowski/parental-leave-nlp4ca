@@ -1,0 +1,41 @@
+side,inst,birth_fullpay_weeks,birth_paid_weeks_any,nonbirth_fullpay_weeks,teaching_relief_semesters,tenure_clock,framing,primary_caregiver_clause,payer,service_requirement_months,relies_on_outside_rules
+US,University of Colorado Boulder,18.0,18.0,18.0,0.0,automatic,neutral,False,university,0.0,True
+EU,University of Liverpool,26.0,26.0,,0.0,not_applicable,gendered,False,university,,True
+US,"University of California, Los Angeles",16.0,16.0,8.0,2.0,on_request,neutral,True,university,9.0,False
+EU,University College London,22.0,39.0,12.0,0.5,not_applicable,gendered,False,university,0.0,False
+US,New York University,6.0,6.0,0.0,1.0,on_request,neutral,True,university,,False
+EU,Ludwig-Maximilians-Universität München,,51.6,0.0,0.0,on_request,mixed,True,state_or_insurance,0.0,True
+US,Princeton University,,22.0,0.0,1.0,automatic,mixed,True,mixed,,True
+EU,University of Zurich,16.0,16.0,2.0,0.0,on_request,mixed,False,mixed,0.0,False
+US,Oregon State University,3.0,3.0,3.0,0.0,on_request,neutral,False,university,6.0,True
+EU,University of Reading,18.0,39.0,,0.0,not_applicable,mixed,False,university,6.0,False
+US,Washington State University,0.0,16.0,0.0,1.0,automatic,neutral,False,state_or_insurance,4.8,False
+EU,Université de Montpellier,16.0,16.0,,0.0,automatic,gendered,False,university,0.0,True
+US,Tufts University,,12.0,,,,neutral,False,university,,True
+EU,University of Basel,16.0,16.0,4.0,0.0,on_request,mixed,False,mixed,,False
+US,University of California San Diego,16.0,16.0,8.0,1.0,automatic,neutral,False,university,0.0,True
+EU,Karolinska Institutet,,51.4,,0.0,not_applicable,neutral,False,state_or_insurance,,True
+US,University of Rochester,8.6,18.6,2.0,1.0,automatic,neutral,True,mixed,1.0,True
+EU,University of Bonn,,57.6,0.0,0.0,not_applicable,mixed,True,state_or_insurance,0.0,True
+US,"University at Buffalo, State University of New York",12.0,12.0,12.0,0.0,on_request,neutral,False,university,6.0,False
+EU,University of Florence,,,2.0,0.0,not_applicable,gendered,False,,,True
+US,University of Kentucky,6.0,6.0,0.0,0.0,on_request,neutral,False,university,0.0,False
+EU,University of Nottingham,26.0,39.0,,0.0,not_applicable,gendered,True,university,12.0,True
+US,Georgia Institute of Technology,9.0,9.0,6.0,0.0,on_request,mixed,False,university,6.0,False
+EU,Delft University of Technology,,,,0.0,automatic,mixed,False,,,True
+US,University of Cincinnati,6.0,6.0,6.0,0.5,on_request,neutral,True,university,,False
+EU,University of Naples Federico II,21.5,21.5,,0.0,not_applicable,gendered,False,university,0.0,True
+US,Florida State University,25.8,25.8,25.8,0.0,,neutral,False,university,,False
+EU,Universidad Autónoma de Madrid,19.0,19.0,19.0,0.0,not_applicable,mixed,False,state_or_insurance,,False
+US,Case Western Reserve University,16.0,16.0,16.0,0.0,on_request,neutral,True,university,12.0,False
+EU,University of Gothenburg,,,,0.0,not_applicable,neutral,False,state_or_insurance,,True
+US,Carnegie Mellon University,16.0,16.0,16.0,0.0,on_request,neutral,True,university,,False
+EU,University of Amsterdam,,,,0.0,on_request,mixed,False,,,True
+US,Arizona State University,12.0,12.0,12.0,0.5,on_request,neutral,False,university,0.0,False
+EU,Aix-Marseille Université,16.0,16.0,,0.0,automatic,gendered,False,university,0.0,True
+US,Duke University,16.0,16.0,16.0,0.0,automatic,neutral,True,university,,False
+EU,KU Leuven,,15.0,,0.0,,gendered,False,state_or_insurance,,True
+US,University of Michigan,12.0,12.0,6.0,1.0,on_request,mixed,True,university,6.0,False
+EU,University of Copenhagen,6.0,30.0,,0.0,not_applicable,mixed,True,state_or_insurance,0.0,True
+US,Louisiana State University,6.0,6.0,6.0,0.0,on_request,neutral,False,university,12.0,False
+EU,University of Vienna,,102.6,,0.0,automatic,mixed,True,state_or_insurance,0.0,True
